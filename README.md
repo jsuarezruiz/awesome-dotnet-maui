@@ -23,9 +23,10 @@ A curated list of **awesome** .NET MAUI libraries and resources.
 - [Microsoft.Maui.Graphics](https://github.com/dotnet/Microsoft.Maui.Graphics): Microsoft.Maui.Graphics is a cross-platform graphics library for iOS, Android, Windows, macOS, Tizen and Linux completely in C#.
 - [Microsoft.Maui.Graphics.Controls](https://github.com/dotnet/Microsoft.Maui.Graphics.Controls): Experimental Microsoft.Maui.Graphics.Controls - Build drawn controls (Cupertino, Fluent and Material).
 - [LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2): Simple, flexible, interactive & powerful charts, maps and gauges.
-- 
+  
 - ## Plugins
-- 
+
+- [DrasticMaui](https://github.com/drasticactions/DrasticMaui): .NET MAUI Helper Library.
 - [.NET MAUI Community Toolkit](https://github.com/CommunityToolkit/Maui): The .NET MAUI Community Toolkit is a collection of common elements for development with .NET MAUI that people tend to replicate across multiple apps. 
 - [.NET MAUI Community Toolkit Markup](https://github.com/CommunityToolkit/Maui.Markup)
 - [Maui.BindableProperty.Generator](https://github.com/rrmanzano/maui-bindableproperty-generator): Source generator that automatically transforms fields into BindableProperties that can be used in MAUI.
