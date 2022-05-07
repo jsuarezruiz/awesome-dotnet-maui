@@ -4,6 +4,11 @@
 
 here you can find a curated list of **awesome** .NET MAUI libraries and resources.
 
+<p align="center">
+     <img alt="Stars" src="https://img.shields.io/github/stars/jsuarezruiz/awesome-dotnet-maui?style=flat-square&color=blue" />  
+     <img alt="Forks" src="https://img.shields.io/github/forks/jsuarezruiz/awesome-dotnet-maui?style=flat-square&color=green" />
+</p>
+
 [Contributions are always welcome!](CONTRIBUTING.md).
 
 ## Samples
