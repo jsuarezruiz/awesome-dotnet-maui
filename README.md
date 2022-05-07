@@ -2,7 +2,7 @@
 
 .NET Multi-platform App UI (**.NET MAUI**) is a cross-platform framework for creating native mobile and desktop apps with C# and XAML. Using .NET MAUI, you can develop apps that can run on Android, iOS, macOS, and Windows from a single shared code-base.
 
-A curated list of **awesome** .NET MAUI libraries and resources.
+here you can find a curated list of **awesome** .NET MAUI libraries and resources.
 
 [Contributions are always welcome!](CONTRIBUTING.md).
 
@@ -13,6 +13,11 @@ A curated list of **awesome** .NET MAUI libraries and resources.
 - [More .NET MAUI Samples](https://github.com/jsuarezruiz/dotnet-maui-samples) [![GitHub stars](https://img.shields.io/github/stars/jsuarezruiz/dotnet-maui-samples?style=flat-square)](https://github.com/jsuarezruiz/dotnet-maui-samples/stargazers) - .NET MAUI samples.
 - [HackerNews](https://github.com/brminnick/HackerNews) [![GitHub stars](https://img.shields.io/github/stars/brminnick/HackerNews?style=flat-square)](https://github.com/brminnick/HackerNews/stargazers) - A .NET MAUI app for displaying the top posts on Hacker News that demonstrates text sentiment analysis gathered using artificial intelligence.
 - [WeatherTwentyOne](https://github.com/davidortinau/WeatherTwentyOne/) [![GitHub stars](https://img.shields.io/github/stars/davidortinau/WeatherTwentyOne?style=flat-square)](https://github.com/davidortinau/WeatherTwentyOne/stargazers) - Microsoft Build 2021 showcase app.
+
+## Workshops
+
+- [.NET MAUI Workshop](https://github.com/dotnet-presentations/dotnet-maui-workshop) [![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/dotnet-maui-workshop?style=flat-square)](https://github.com/dotnet-presentations/dotnet-maui-workshop/stargazers) - A full day workshop (.NET MAUI Workshop in a Box) on how to build apps with .NET MAUI for iOS, Android, macOS, and Windows.
+- [Taller .NET MAUI](https://github.com/jsuarezruiz/taller-dotnet-maui) [![GitHub stars](https://img.shields.io/github/stars/jsuarezruiz/taller-dotnet-maui?style=flat-square)](https://github.com/jsuarezruiz/taller-dotnet-maui/stargazers) -Taller de desarrollo de aplicaciones con .NET MAUI (Spanish content).
 
 ## Tools
 
