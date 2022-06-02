@@ -1,15 +1,15 @@
 # Awesome .NET MAUI [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-.NET Multi-platform App UI (**.NET MAUI**) is a cross-platform framework for creating native mobile and desktop apps with C# and XAML. Using .NET MAUI, you can develop apps that can run on Android, iOS, macOS, and Windows from a single shared code-base.
+[.NET Multi-platform App UI (**.NET MAUI**)](https://dot.net/maui) is a cross-platform framework for creating native mobile and desktop apps with C# and XAML. Using .NET MAUI, you can develop apps that can run on Android, iOS, macOS, and Windows from a single shared code-base.
 
-here you can find a curated list of **awesome** .NET MAUI libraries and resources.
+Here you can find a curated list of **awesome** .NET MAUI libraries and resources.
 
 <p align="center">
      <img alt="Stars" src="https://img.shields.io/github/stars/jsuarezruiz/awesome-dotnet-maui?style=flat-square&color=blue" />  
      <img alt="Forks" src="https://img.shields.io/github/forks/jsuarezruiz/awesome-dotnet-maui?style=flat-square&color=green" />
 </p>
 
-[Contributions are always welcome!](CONTRIBUTING.md).
+[Contributions are always welcome!](CONTRIBUTING.md)
 
 ## Samples
 
@@ -19,7 +19,7 @@ here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [MauiSamples](https://github.com/VladislavAntonyuk/MauiSamples) [![GitHub stars](https://img.shields.io/github/stars/VladislavAntonyuk/MauiSamples?style=flat-square)](https://github.com/VladislavAntonyuk/MauiSamples/stargazers) - .NET MAUI samples (.NET MAUI Paint, .NET MAUI Blazor Photo gallery, Kanban board and more).
 - [HackerNews](https://github.com/brminnick/HackerNews) [![GitHub stars](https://img.shields.io/github/stars/brminnick/HackerNews?style=flat-square)](https://github.com/brminnick/HackerNews/stargazers) - A .NET MAUI app for displaying the top posts on Hacker News that demonstrates text sentiment analysis gathered using artificial intelligence.
 - [WeatherTwentyOne](https://github.com/davidortinau/WeatherTwentyOne/) [![GitHub stars](https://img.shields.io/github/stars/davidortinau/WeatherTwentyOne?style=flat-square)](https://github.com/davidortinau/WeatherTwentyOne/stargazers) - Microsoft Build 2021 showcase app.
-
+- [.NET Podcasts](https://github.com/microsoft/dotnet-podcasts/) [![GitHub stars](https://img.shields.io/github/stars/microsoft/dotnet-podcasts?style=flat-square)](https://github.com/microsoft/dotnet-podcasts/stargazers) - .NET Conf 2021 and Microsoft Build 2022 showcase app.
 ## Workshops
 
 - [.NET MAUI Workshop](https://github.com/dotnet-presentations/dotnet-maui-workshop) [![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/dotnet-maui-workshop?style=flat-square)](https://github.com/dotnet-presentations/dotnet-maui-workshop/stargazers) - A full day workshop (.NET MAUI Workshop in a Box) on how to build apps with .NET MAUI for iOS, Android, macOS, and Windows.
