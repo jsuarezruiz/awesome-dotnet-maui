@@ -20,6 +20,7 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [HackerNews](https://github.com/brminnick/HackerNews) [![GitHub stars](https://img.shields.io/github/stars/brminnick/HackerNews?style=flat-square)](https://github.com/brminnick/HackerNews/stargazers) - A .NET MAUI app for displaying the top posts on Hacker News that demonstrates text sentiment analysis gathered using artificial intelligence.
 - [WeatherTwentyOne](https://github.com/davidortinau/WeatherTwentyOne/) [![GitHub stars](https://img.shields.io/github/stars/davidortinau/WeatherTwentyOne?style=flat-square)](https://github.com/davidortinau/WeatherTwentyOne/stargazers) - Microsoft Build 2021 showcase app.
 - [.NET Podcasts](https://github.com/microsoft/dotnet-podcasts/) [![GitHub stars](https://img.shields.io/github/stars/microsoft/dotnet-podcasts?style=flat-square)](https://github.com/microsoft/dotnet-podcasts/stargazers) - .NET Conf 2021 and Microsoft Build 2022 showcase app.
+
 ## Workshops
 
 - [.NET MAUI Workshop](https://github.com/dotnet-presentations/dotnet-maui-workshop) [![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/dotnet-maui-workshop?style=flat-square)](https://github.com/dotnet-presentations/dotnet-maui-workshop/stargazers) - A full day workshop (.NET MAUI Workshop in a Box) on how to build apps with .NET MAUI for iOS, Android, macOS, and Windows.
@@ -28,7 +29,11 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 ## Tools
 
 - [.NET MAUI Check tool](https://github.com/Redth/dotnet-maui-check) [![GitHub stars](https://img.shields.io/github/stars/Redth/dotnet-maui-check?style=flat-square)](https://github.com/Redth/dotnet-maui-check/stargazers) - NET MAUI Check tool.
- 
+
+## Blazor
+
+- [BlazorUI](https://github.com/StoicDreams/BlazorUI) [![GitHub stars](https://img.shields.io/github/stars/StoicDreams/BlazorUI?style=flat-square)](https://github.com/StoicDreams/BlazorUI/stargazers) - UI Framework and component library for Blazor based Websites and Maui projects.
+
 ## UI
 
 - [.NET MAUI Community Toolkit](https://github.com/CommunityToolkit/Maui) [![GitHub stars](https://img.shields.io/github/stars/CommunityToolkit/Maui?style=flat-square)](https://github.com/CommunityToolkit/Maui/stargazers) - The .NET MAUI Community Toolkit is a community-created library that contains .NET MAUI Extensions, Advanced UI/UX Controls, Effects, and Behaviors to help make your life as a .NET MAUI developer easier. 
