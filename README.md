@@ -43,6 +43,7 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [Microsoft.Maui.Graphics.Controls](https://github.com/dotnet/Microsoft.Maui.Graphics.Controls) [![GitHub stars](https://img.shields.io/github/stars/dotnet/Microsoft.Maui.Graphics.Controls?style=flat-square)](https://github.com/dotnet/Microsoft.Maui.Graphics.Controls/stargazers) - Experimental Microsoft.Maui.Graphics.Controls - Build drawn controls (Cupertino, Fluent and Material).
 - [Microsoft.Maui.Platform.Channels](https://github.com/Redth/Microsoft.Maui.Platform.Channels) [![GitHub stars](https://img.shields.io/github/stars/Redth/Microsoft.Maui.Platform.Channels?style=flat-square)](https://github.com/Redth/Microsoft.Maui.Platform.Channels/stargazers) - A simple bridge for messaging between .NET and iOS/MacCatalyst/Android Platforms at runtime.
 - [LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) [![GitHub stars](https://img.shields.io/github/stars/beto-rodriguez/LiveCharts2?style=flat-square)](https://github.com/beto-rodriguez/LiveCharts2/stargazers) - Simple, flexible, interactive & powerful charts, maps and gauges.
+- [XCalendar](https://github.com/ME-MarvinE/XCalendar) [![GitHub stars](https://img.shields.io/github/stars/ME-MarvinE/XCalendar?style=flat-square)](https://github.com/ME-MarvinE/XCalendar/stargazers) - A plugin for Xamarin Forms and .NET MAUI providing a completely customisable calendar control with complex functionality.
   
 ## Plugins
 
