@@ -32,6 +32,7 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 
 ## Blazor
 
+- [Bit Platform](https://github.com/bitfoundation/bitplatform) [![GitHub stars](https://img.shields.io/github/stars/bitfoundation/bitplatform?style=flat-square)](https://github.com/bitfoundation/bitplatform/stargazers) - UI components focused on Blazor WASM / Hybrid (MAUI) which are extremly fast yet low size + Ready to use project templates.
 - [BlazorUI](https://github.com/StoicDreams/BlazorUI) [![GitHub stars](https://img.shields.io/github/stars/StoicDreams/BlazorUI?style=flat-square)](https://github.com/StoicDreams/BlazorUI/stargazers) - UI Framework and component library for Blazor based Websites and Maui projects.
 - [MASA.Blazor](https://github.com/BlazorComponent/MASA.Blazor) [![GitHub stars](https://img.shields.io/github/stars/BlazorComponent/MASA.Blazor?style=flat-square)](https://github.com/BlazorComponent/MASA.Blazor/stargazers) - Blazor component library based on Material Design. Support Blazor Server and Blazor WebAssembly.
 
