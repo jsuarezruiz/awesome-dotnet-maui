@@ -15,13 +15,14 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 
 - [Official .NET MAUI Samples](https://github.com/dotnet/maui-samples) [![GitHub stars](https://img.shields.io/github/stars/dotnet/maui-samples?style=flat-square)](https://github.com/dotnet/maui-samples/stargazers) - Official .NET MAUI Samples from the .NET MAUI Team!
 - [Official Code Samples](https://docs.microsoft.com/samples/browse/?expanded=dotnet&products=dotnet-maui) - Official .NET MAUI Code Samples from documentation and across official repos.
-- [MauiScientificCalculator](https://github.com/naweed/MauiScientificCalculator) [![GitHub stars](https://img.shields.io/github/stars/naweed/MauiScientificCalculator?style=flat-square)](https://github.com/naweed/MauiScientificCalculator/stargazers) - A simple scientific calculator built uisng .NET MAUI.
+- [Maui Scientific Calculator](https://github.com/naweed/MauiScientificCalculator) [![GitHub stars](https://img.shields.io/github/stars/naweed/MauiScientificCalculator?style=flat-square)](https://github.com/naweed/MauiScientificCalculator/stargazers) - A simple scientific calculator built uisng .NET MAUI.
 - [More .NET MAUI Samples](https://github.com/jsuarezruiz/dotnet-maui-samples) [![GitHub stars](https://img.shields.io/github/stars/jsuarezruiz/dotnet-maui-samples?style=flat-square)](https://github.com/jsuarezruiz/dotnet-maui-samples/stargazers) - .NET MAUI samples.
 - [MauiSamples](https://github.com/VladislavAntonyuk/MauiSamples) [![GitHub stars](https://img.shields.io/github/stars/VladislavAntonyuk/MauiSamples?style=flat-square)](https://github.com/VladislavAntonyuk/MauiSamples/stargazers) - .NET MAUI samples (.NET MAUI Paint, .NET MAUI Blazor Photo gallery, Kanban board and more).
 - [HackerNews](https://github.com/brminnick/HackerNews) [![GitHub stars](https://img.shields.io/github/stars/brminnick/HackerNews?style=flat-square)](https://github.com/brminnick/HackerNews/stargazers) - A .NET MAUI app for displaying the top posts on Hacker News that demonstrates text sentiment analysis gathered using artificial intelligence.
 - [JukaApp](https://github.com/jukaLang/jukaApp) [![GitHub stars](https://img.shields.io/github/stars/jukaLang/jukaApp?style=flat-square)](https://github.com/jukaLang/jukaApp/stargazers) - A .NET MAUI editor for running Juka language.
 - [WeatherTwentyOne](https://github.com/davidortinau/WeatherTwentyOne/) [![GitHub stars](https://img.shields.io/github/stars/davidortinau/WeatherTwentyOne?style=flat-square)](https://github.com/davidortinau/WeatherTwentyOne/stargazers) - Microsoft Build 2021 showcase app.
 - [.NET Podcasts](https://github.com/microsoft/dotnet-podcasts/) [![GitHub stars](https://img.shields.io/github/stars/microsoft/dotnet-podcasts?style=flat-square)](https://github.com/microsoft/dotnet-podcasts/stargazers) - .NET Conf 2021 and Microsoft Build 2022 showcase app.
+- [Maui Planets](https://github.com/naweed/MauiPlanets) [![GitHub stars](https://img.shields.io/github/stars/naweed/MauiPlanets?style=flat-square)](https://github.com/naweed/MauiPlanets/stargazers) - Planets Mobile App UI built using .Net Maui. Implements the Dribbble design.
 
 ## Workshops
 
@@ -56,6 +57,8 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [LiveCharts2](https://github.com/beto-rodriguez/LiveCharts2) [![GitHub stars](https://img.shields.io/github/stars/beto-rodriguez/LiveCharts2?style=flat-square)](https://github.com/beto-rodriguez/LiveCharts2/stargazers) - Simple, flexible, interactive & powerful charts, maps and gauges.
 - [XCalendar](https://github.com/ME-MarvinE/XCalendar) [![GitHub stars](https://img.shields.io/github/stars/ME-MarvinE/XCalendar?style=flat-square)](https://github.com/ME-MarvinE/XCalendar/stargazers) - A plugin for Xamarin Forms and .NET MAUI providing a completely customisable calendar control with complex functionality.
 - [Maui.zBind](https://github.com/Keflon/FunctionZero.Maui.zBind) [![GitHub stars](https://img.shields.io/github/stars/Keflon/FunctionZero.Maui.zBind?style=flat-square)](https://github.com/Keflon/FunctionZero.Maui.zBind/stargazers) - A .NET MAUI library that allows DataBinding to expressions.
+- [Maui.Controls.BottomSheet](https://github.com/naweed/Maui.Controls.BottomSheet) [![GitHub stars](https://img.shields.io/github/stars/naweed/Maui.Controls.BottomSheet?style=flat-square)](https://github.com/naweed/Maui.Controls.BottomSheet/stargazers) - A simple customizable Bottom Sheet control built using .NET MAUI.
+- [Maui.Controls.RatingView](https://github.com/naweed/Maui.Controls.RatingView) [![GitHub stars](https://img.shields.io/github/stars/naweed/Maui.Controls.RatingView?style=flat-square)](https://github.com/naweed/Maui.Controls.RatingView/stargazers) - A simple and customizable Rating View control for use with .NET MAUI Apps.
 
 ## Plugins
 
