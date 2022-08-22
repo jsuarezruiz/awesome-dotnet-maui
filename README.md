@@ -23,6 +23,7 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [WeatherTwentyOne](https://github.com/davidortinau/WeatherTwentyOne/) [![GitHub stars](https://img.shields.io/github/stars/davidortinau/WeatherTwentyOne?style=flat-square)](https://github.com/davidortinau/WeatherTwentyOne/stargazers) - Microsoft Build 2021 showcase app.
 - [.NET Podcasts](https://github.com/microsoft/dotnet-podcasts/) [![GitHub stars](https://img.shields.io/github/stars/microsoft/dotnet-podcasts?style=flat-square)](https://github.com/microsoft/dotnet-podcasts/stargazers) - .NET Conf 2021 and Microsoft Build 2022 showcase app.
 - [Maui Planets](https://github.com/naweed/MauiPlanets) [![GitHub stars](https://img.shields.io/github/stars/naweed/MauiPlanets?style=flat-square)](https://github.com/naweed/MauiPlanets/stargazers) - Planets Mobile App UI built using .Net Maui. Implements the Dribbble design.
+- [BMI Calculator](https://github.com/naweed/MauiBMICalculator) [![GitHub stars](https://img.shields.io/github/stars/naweed/MauiBMICalculator?style=flat-square)](https://github.com/naweed/MauiBMICalculator/stargazers) - A simple and gorgeous BMI Calculator built using .NET MAUI and Skia Sharp. Inspired by Dribble design.
 
 ## Workshops
 
