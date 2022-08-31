@@ -24,6 +24,7 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [.NET Podcasts](https://github.com/microsoft/dotnet-podcasts/) [![GitHub stars](https://img.shields.io/github/stars/microsoft/dotnet-podcasts?style=flat-square)](https://github.com/microsoft/dotnet-podcasts/stargazers) - .NET Conf 2021 and Microsoft Build 2022 showcase app.
 - [Maui Planets](https://github.com/naweed/MauiPlanets) [![GitHub stars](https://img.shields.io/github/stars/naweed/MauiPlanets?style=flat-square)](https://github.com/naweed/MauiPlanets/stargazers) - Planets Mobile App UI built using .Net Maui. Implements the Dribbble design.
 - [BMI Calculator](https://github.com/naweed/MauiBMICalculator) [![GitHub stars](https://img.shields.io/github/stars/naweed/MauiBMICalculator?style=flat-square)](https://github.com/naweed/MauiBMICalculator/stargazers) - A simple and gorgeous BMI Calculator built using .NET MAUI and Skia Sharp. Inspired by Dribble design.
+- [Maui Tube Player](https://github.com/naweed/MauiTubePlayer) [![GitHub stars](https://img.shields.io/github/stars/naweed/MauiTubePlayer?style=flat-square)](https://github.com/naweed/MauiTubePlayer/stargazers) - A REAL and BEAUTIFUL Youtube Clone app built using .Net Maui. Lots of features such as connecting to real Youtube API, Search and Playback functionality, Download Video for Offline Viewing and amazing UI design.
 
 ## Workshops
 
