@@ -65,6 +65,7 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [Maui.zBind](https://github.com/Keflon/FunctionZero.Maui.zBind) [![GitHub stars](https://img.shields.io/github/stars/Keflon/FunctionZero.Maui.zBind?style=flat-square)](https://github.com/Keflon/FunctionZero.Maui.zBind/stargazers) - A .NET MAUI library that allows DataBinding to expressions.
 - [Maui.Controls.BottomSheet](https://github.com/naweed/Maui.Controls.BottomSheet) [![GitHub stars](https://img.shields.io/github/stars/naweed/Maui.Controls.BottomSheet?style=flat-square)](https://github.com/naweed/Maui.Controls.BottomSheet/stargazers) - A simple customizable Bottom Sheet control built using .NET MAUI.
 - [Maui.Controls.RatingView](https://github.com/naweed/Maui.Controls.RatingView) [![GitHub stars](https://img.shields.io/github/stars/naweed/Maui.Controls.RatingView?style=flat-square)](https://github.com/naweed/Maui.Controls.RatingView/stargazers) - A simple and customizable Rating View control for use with .NET MAUI Apps.
+- [SimpleToolkit](https://github.com/RadekVyM/SimpleToolkit) [![GitHub stars](https://img.shields.io/github/stars/RadekVyM/SimpleToolkit?style=flat-square)](https://github.com/RadekVyM/SimpleToolkit/stargazers) - SimpleToolkit is a .NET MAUI library of helpers and simple, easily customizable controls.
 
 ## Plugins
 
