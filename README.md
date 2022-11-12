@@ -12,6 +12,15 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 
 [Contributions are always welcome!](CONTRIBUTING.md)
 
+## Contents
+  - [Contents](#contents)
+  - [Samples](#samples)
+  - [Workshops](#workshops)
+  - [Tools](#tools)
+  - [Blazor](#blazor)
+  - [UI](#ui)
+  - [Plugins](#plugins)
+
 ## Samples
 
 - [.NET 6 Mobile Samples](https://github.com/dotnet/net6-mobile-samples) [![GitHub stars](https://img.shields.io/github/stars/dotnet/net6-mobile-samples?style=flat-square)](https://github.com/dotnet/net6-mobile-samples/stargazers) [![GitHub last-commit](https://img.shields.io/github/last-commit/dotnet/net6-mobile-samples?style=flat-square)](https://github.com/dotnet/net6-mobile-samples/commits) - .NET 6 preview samples.
