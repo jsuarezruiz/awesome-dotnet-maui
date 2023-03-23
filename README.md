@@ -88,6 +88,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [.NET MAUI UI Testing](https://github.com/Redth/Maui.UITesting) 
   [![GitHub stars](https://img.shields.io/github/stars/Redth/Maui.UITesting?style=flat-square)](https://github.com/Redth/Maui.UITesting/stargazers) 
   [![GitHub last-commit](https://img.shields.io/github/last-commit/Redth/Maui.UITesting?style=flat-square)](https://github.com/Redth/Maui.UITesting/commits) - NET MAUI UI Testing tool.
+- [MAUI App Accelerator](https://github.com/mrlacey/MauiAppAccelerator)
+  [![GitHub stars](https://img.shields.io/github/stars/mrlacey/MauiAppAccelerator?style=flat-square)](https://github.com/mrlacey/MauiAppAccelerator/stargazers) 
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/mrlacey/MauiAppAccelerator?style=flat-square)](https://github.com/mrlacey/MauiAppAccelerator/commits) - A Visual Studio extension to accelerate the creation of new .NET MAUI apps using a wizard-based UI.
 
 ## Blazor
 
@@ -203,6 +206,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [Material.Components.Maui](https://github.com/yiszza/Material.Components.Maui)
   [![GitHub stars](https://img.shields.io/github/stars/yiszza/Material.Components.Maui?style=flat-square)](https://github.com/yiszza/Material.Components.Maui/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/yiszza/Material.Components.Maui?style=flat-square)](https://github.com/yiszza/Material.Components.Maui/commits) - Material You Components for .NET MAUI.
+- [Xamarin.Forms.Skeleton](https://github.com/HorusSoftwareUY/Xamarin.Forms.Skeleton)
+  [![GitHub stars](https://img.shields.io/github/stars/HorusSoftwareUY/Xamarin.Forms.Skeleton?style=flat-square)](https://github.com/HorusSoftwareUY/Xamarin.Forms.Skeleton/stargazers) 
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/HorusSoftwareUY/Xamarin.Forms.Skeleton?style=flat-square)](https://github.com/HorusSoftwareUY/Xamarin.Forms.Skeleton/commits) - A library that provides skeleton/ shimmer controls for activity indication. Targets Xamarin and MAUI
 
 ## Plugins
 
