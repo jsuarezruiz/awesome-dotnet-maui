@@ -185,9 +185,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [OverFlower](https://github.com/nor0x/OverFlower)
   [![GitHub stars](https://img.shields.io/github/stars/nor0x/OverFlower?style=flat-square)](https://github.com/nor0x/OverFlower/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/nor0x/OverFlower?style=flat-square)](https://github.com/nor0x/OverFlower/commits) - Endless scroller control for .NET MAUI.
-- [Sharp.UI](https://github.com/idexus/Sharp.UI)
-  [![GitHub stars](https://img.shields.io/github/stars/idexus/Sharp.UI?style=flat-square)](https://github.com/idexus/Sharp.UI/stargazers)
-  [![GitHub last-commit](https://img.shields.io/github/last-commit/idexus/Sharp.UI?style=flat-square)](https://github.com/idexus/Sharp.UI/commits) - Code-Only UI Library for .NET MAUI - Fluent Methods, Hot Reload, and No Need for XAML
+- [CodeMarkup for Maui](https://github.com/idexus/CodeMarkup-Maui)
+  [![GitHub stars](https://img.shields.io/github/stars/idexus/CodeMarkup-Maui?style=flat-square)](https://github.com/idexus/CodeMarkup-Maui/stargazers)
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/idexus/CodeMarkup-Maui?style=flat-square)](https://github.com/idexus/Sharp.UI/commits) - C# Code Markup Library for .NET MAUI: UI Development with Fluent Methods and Hot Reload
 - [Sharpnado.Tabs](https://github.com/roubachof/Sharpnado.Tabs)
   [![GitHub stars](https://img.shields.io/github/stars/roubachof/Sharpnado.Tabs?style=flat-square)](https://github.com/roubachof/Sharpnado.Tabs/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/roubachof/Sharpnado.Tabs?style=flat-square)](https://github.com/roubachof/Sharpnado.Tabs/commits) - Pure MAUI and Xamarin.Forms Tabs, including fixed tabs, scrollable tabs, bottom tabs, badge, segmented control, custom tabs, button tabs, bendable tabs.
