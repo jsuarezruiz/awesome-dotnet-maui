@@ -197,6 +197,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [StateButton](https://github.com/IeuanWalker/Maui.StateButton)
   [![GitHub stars](https://img.shields.io/github/stars/IeuanWalker/Maui.StateButton?style=flat-square)](https://github.com/IeuanWalker/Maui.StateButton/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/IeuanWalker/Maui.StateButton?style=flat-square)](https://github.com/IeuanWalker/Maui.StateButton/commits) - With this control, you are able to create any style of button. This is possible as it acts as a wrapper to your XAML and provides you the events/ commands and properties to bind to. It exposes a `State` property that allows you to style the button differently depending if its `Pressed` or `NotPressed`.  It's also 100% accessible by default.
+- [Switch](https://github.com/IeuanWalker/Maui.Switch)
+  [![GitHub stars](https://img.shields.io/github/stars/IeuanWalker/Maui.Switch?style=flat-square)](https://github.com/IeuanWalker/Maui.Switch/stargazers)
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/IeuanWalker/Maui.Switch?style=flat-square)](https://github.com/IeuanWalker/Maui.Switch/commits) - A control that allows you to design any type of switch/ toggle for .NET MAUI. It's also 100% accessible.  
 - [UraniumUI](https://github.com/enisn/UraniumUI)
   [![GitHub stars](https://img.shields.io/github/stars/enisn/UraniumUI?style=flat-square)](https://github.com/enisn/UraniumUI/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/enisn/UraniumUI?style=flat-square)](https://github.com/enisn/UraniumUI/commits) - Uranium is a Free & Open-Source UI Kit for MAUI.  It provides a set of controls and utilities to build modern applications.
