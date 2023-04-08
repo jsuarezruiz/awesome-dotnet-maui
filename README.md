@@ -257,6 +257,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [Plugin.Maui.Audio](https://github.com/jfversluis/Plugin.Maui.Audio)
   [![GitHub stars](https://img.shields.io/github/stars/jfversluis/Plugin.Maui.Audio?style=flat-square)](https://github.com/jfversluis/Plugin.Maui.Audio/stargazers) 
   [![GitHub last-commit](https://img.shields.io/github/last-commit/jfversluis/Plugin.Maui.Audio?style=flat-square)](https://github.com/jfversluis/Plugin.Maui.Audio/commits) Plugin.Maui.Audio provides the ability to play audio inside a .NET MAUI application.
+- [Plugin.Maui.ScreenBrightness](https://github.com/jfversluis/Plugin.Maui.ScreenBrightness)
+  [![GitHub stars](https://img.shields.io/github/stars/jfversluis/Plugin.Maui.ScreenBrightness?style=flat-square)](https://github.com/jfversluis/Plugin.Maui.ScreenBrightness/stargazers) 
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/jfversluis/Plugin.Maui.ScreenBrightness?style=flat-square)](https://github.com/jfversluis/Plugin.Maui.ScreenBrightness/commits) Plugin.Maui.ScreenBrightness provides the ability to get or set the screen brightness inside a .NET MAUI application.
 - [MauiAudio](https://github.com/BeautifulPilgrim/MauiAudio) - 
   [![GitHub stars](https://img.shields.io/github/stars/BeautifulPilgrim/MauiAudio?style=flat-square)](https://github.com/BeautifulPilgrim/MauiAudio/stargazers) 
   [![GitHub last-commit](https://img.shields.io/github/last-commit/BeautifulPilgrim/MauiAudio?style=flat-square)](https://github.com/BeautifulPilgrim/MauiAudio/commits) An Audio Plugin in MAUI with native control.
