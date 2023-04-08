@@ -218,6 +218,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 
 ## Plugins
 
+- [BindableProps](https://github.com/KafkaWannaFly/BindableProps)
+  [![GitHub stars](https://img.shields.io/github/stars/KafkaWannaFly/BindableProps?style=flat-square)](https://github.com/KafkaWannaFly/BindableProps/stargazers)
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/KafkaWannaFly/BindableProps?style=flat-square)](https://github.com/KafkaWannaFly/BindableProps/commits) - This library helps you to reduce writing boilerplate code when creating your custom UI components.
 - [DrasticMaui](https://github.com/drasticactions/DrasticMaui)
   [![GitHub stars](https://img.shields.io/github/stars/drasticactions/DrasticMaui?style=flat-square)](https://github.com/drasticactions/DrasticMaui/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/drasticactions/DrasticMaui?style=flat-square)](https://github.com/drasticactions/DrasticMaui/commits) - .NET MAUI Helper Library.
