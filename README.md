@@ -13,7 +13,7 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 [Contributions are always welcome!](CONTRIBUTING.md)
 
 ## Contents
-- [Awesome .NET MAUI ](#awesome-net-maui-)
+- [Awesome .NET MAUI](#awesome-net-maui-)
   - [Contents](#contents)
   - [Samples](#samples)
   - [Workshops](#workshops)
