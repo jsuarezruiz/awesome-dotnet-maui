@@ -137,6 +137,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [Maui.ColorPicker](https://github.com/nor0x/Maui.ColorPicker)
   [![GitHub stars](https://img.shields.io/github/stars/nor0x/Maui.ColorPicker?style=flat-square)](https://github.nor0x/Maui.ColorPicker/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/nor0x/Maui.ColorPicker?style=flat-square)](https://github.com/nor0x/Maui.ColorPicker/commits) - Color Picker Control for .NET MAUI powered by SkiaSharp.
+- [Maui.DataGrid](https://github.com/akgulebubekir/Maui.DataGrid)
+  [![GitHub stars](https://img.shields.io/github/stars/akgulebubekir/Maui.DataGrid?style=flat-square)](https://github.akgulebubekir/Maui.DataGrid/stargazers)
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/akgulebubekir/Maui.DataGrid?style=flat-square)](https://github.com/akgulebubekir/Maui.DataGrid/commits) - DataGrid library for .NET MAUI applications.
 - [MAUI.FreakyControls](https://github.com/FreakyAli/MAUI.FreakyControls)
   [![GitHub stars](https://img.shields.io/github/stars/FreakyAli/MAUI.FreakyControls?style=flat-square)](https://github.FreakyAli/MAUI.FreakyControls/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/felipebaltazar/Maui.NeoControls?style=flat-square)](https://github.com/felipebaltazar/Maui.NeoControls/commits) - A full set of freaky controls for .Net Maui that do a tad bit more than your regular controls.
