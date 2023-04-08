@@ -115,6 +115,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [.NET MAUI Community Toolkit](https://github.com/CommunityToolkit/Maui)
   [![GitHub stars](https://img.shields.io/github/stars/CommunityToolkit/Maui?style=flat-square)](https://github.com/CommunityToolkit/Maui/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/CommunityToolkit/Maui?style=flat-square)](https://github.com/CommunityToolkit/Maui/commits) - The .NET MAUI Community Toolkit is a community-created library that contains .NET MAUI Extensions, Advanced UI/UX Controls, Effects, and Behaviors to help make your life as a .NET MAUI developer easier.
+- [AiForms.Maui.SettingsView](https://github.com/muak/AiForms.Maui.SettingsView)
+  [![GitHub stars](https://img.shields.io/github/stars/muak/AiForms.Maui.SettingsView?style=flat-square)](https://github.com/muak/AiForms.Maui.SettingsView/stargazers)
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/muak/AiForms.Maui.SettingsView?style=flat-square)](https://github.com/muak/AiForms.Maui.SettingsView/commits) - This is a flexible TableView specialized in settings for Android / iOS.
 - [AlohaKit](https://github.com/jsuarezruiz/AlohaKit)
   [![GitHub stars](https://img.shields.io/github/stars/jsuarezruiz/AlohaKit?style=flat-square)](https://github.com/jsuarezruiz/AlohaKit/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/jsuarezruiz/AlohaKit?style=flat-square)](https://github.com/jsuarezruiz/AlohaKit/commits) - A set of .NET MAUI drawn controls.
