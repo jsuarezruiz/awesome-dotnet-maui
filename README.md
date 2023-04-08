@@ -203,6 +203,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [Switch](https://github.com/IeuanWalker/Maui.Switch)
   [![GitHub stars](https://img.shields.io/github/stars/IeuanWalker/Maui.Switch?style=flat-square)](https://github.com/IeuanWalker/Maui.Switch/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/IeuanWalker/Maui.Switch?style=flat-square)](https://github.com/IeuanWalker/Maui.Switch/commits) - A control that allows you to design any type of switch/ toggle for .NET MAUI. It's also 100% accessible.  
+- [The49.Maui.BottomSheet](https://github.com/the49code/The49.Maui.BottomSheet)
+  [![GitHub stars](https://img.shields.io/github/stars/the49code/The49.Maui.BottomSheet?style=flat-square)](https://github.com/the49code/The49.Maui.BottomSheet/stargazers)
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/the49code/The49.Maui.BottomSheet?style=flat-square)](https://github.com/the49code/The49.Maui.BottomSheet/commits) - Maui.BottomSheet is a .NET MAUI library used to display pages as Bottom Sheets.
 - [UraniumUI](https://github.com/enisn/UraniumUI)
   [![GitHub stars](https://img.shields.io/github/stars/enisn/UraniumUI?style=flat-square)](https://github.com/enisn/UraniumUI/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/enisn/UraniumUI?style=flat-square)](https://github.com/enisn/UraniumUI/commits) - Uranium is a Free & Open-Source UI Kit for MAUI.  It provides a set of controls and utilities to build modern applications.
