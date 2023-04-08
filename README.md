@@ -260,6 +260,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [MauiReactor](https://github.com/adospace/reactorui-maui) 
   [![GitHub stars](https://img.shields.io/github/stars/adospace/reactorui-maui?style=flat-square)](https://github.com/adospace/reactorui-maui/stargazers) 
   [![GitHub last-commit](https://img.shields.io/github/last-commit/adospace/reactorui-maui?style=flat-square)](https://github.com/adospace/reactorui-maui/commits) - MauiReactor is a MVU UI framework built on top of MAUI.
+- [Nuke MAUI](https://github.com/AvantiPoint/nuke.maui) 
+  [![GitHub stars](https://img.shields.io/github/stars/AvantiPoint/nuke.maui?style=flat-square)](https://github.com/AvantiPoint/nuke.maui/stargazers) 
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/AvantiPoint/nuke.maui?style=flat-square)](https://github.com/AvantiPoint/nuke.maui/commits) - The AvantiPoint Nuke Maui library is an extension library for Nuke Build for developers writing DotNet Maui applications.  
 - [Plugin.Maui.Audio](https://github.com/jfversluis/Plugin.Maui.Audio)
   [![GitHub stars](https://img.shields.io/github/stars/jfversluis/Plugin.Maui.Audio?style=flat-square)](https://github.com/jfversluis/Plugin.Maui.Audio/stargazers) 
   [![GitHub last-commit](https://img.shields.io/github/last-commit/jfversluis/Plugin.Maui.Audio?style=flat-square)](https://github.com/jfversluis/Plugin.Maui.Audio/commits) Plugin.Maui.Audio provides the ability to play audio inside a .NET MAUI application.
