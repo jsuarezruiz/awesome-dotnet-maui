@@ -1,6 +1,6 @@
 # Awesome .NET MAUI [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-[.NET Multi-platform App UI (**.NET MAUI**)](https://dot.net/maui) is a cross-platform framework for creating native mobile and desktop apps with C# and XAML. Using .NET MAUI, you can develop apps that can run on Android, iOS, macOS, and Windows from a single shared code-base.
+[.NET Multi-platform App UI (**.NET MAUI**)](https://dot.net/maui) is a cross-platform framework for creating native mobile and desktop apps with C# and XAML. Using .NET MAUI, you can develop apps that can run on Android, iOS, macOS, Windows and Tizen from a single shared code-base.
 
 Here you can find a curated list of **awesome** .NET MAUI libraries and resources.
 
