@@ -306,3 +306,6 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [.NET Templates](https://github.com/VladislavAntonyuk/.NET-Templates)
   [![GitHub stars](https://img.shields.io/github/stars/VladislavAntonyuk/.NET-Templates?style=flat-square)](https://github.com/VladislavAntonyuk/.NET-Templates/stargazers) 
   [![GitHub last-commit](https://img.shields.io/github/last-commit/VladislavAntonyuk/.NET-Templates?style=flat-square)](https://github.com/VladislavAntonyuk/.NET-Templates/commits) - .NET Templates like Onion architecture cross-platform application and all iOS Extensions for .NET MAUI.
+- [MaterialColorUtilities.Maui](https://github.com/albi005/MaterialColorUtilities)
+  [![GitHub stars](https://img.shields.io/github/stars/albi005/MaterialColorUtilities?style=flat-square)](https://github.com/albi005/MaterialColorUtilities/stargazers) 
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/albi005/MaterialColorUtilities?style=flat-square)](https://github.com/albi005/MaterialColorUtilities/commits) - Material You dynamic theming
