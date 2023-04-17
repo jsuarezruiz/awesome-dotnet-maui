@@ -309,3 +309,6 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [MaterialColorUtilities.Maui](https://github.com/albi005/MaterialColorUtilities)
   [![GitHub stars](https://img.shields.io/github/stars/albi005/MaterialColorUtilities?style=flat-square)](https://github.com/albi005/MaterialColorUtilities/stargazers) 
   [![GitHub last-commit](https://img.shields.io/github/last-commit/albi005/MaterialColorUtilities?style=flat-square)](https://github.com/albi005/MaterialColorUtilities/commits) - Material You dynamic theming
+- [Plugin.Maui.AppRating](https://github.com/FabriBertani/Plugin.Maui.AppRating)
+  [![GitHub stars](https://img.shields.io/github/stars/FabriBertani/Plugin.Maui.AppRating?style=flat-square)](https://github.com/FabriBertani/Plugin.Maui.AppRating)
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/FabriBertani/Plugin.Maui.AppRating?style=flat-square)](https://github.com/FabriBertani/Plugin.Maui.AppRating/commits) - An easy way to quickly add store rating reviews to your .Net MAUI app.
