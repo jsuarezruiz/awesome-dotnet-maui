@@ -227,7 +227,10 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [Xamarin.Forms.Skeleton](https://github.com/HorusSoftwareUY/Xamarin.Forms.Skeleton)
   [![GitHub stars](https://img.shields.io/github/stars/HorusSoftwareUY/Xamarin.Forms.Skeleton?style=flat-square)](https://github.com/HorusSoftwareUY/Xamarin.Forms.Skeleton/stargazers) 
   [![GitHub last-commit](https://img.shields.io/github/last-commit/HorusSoftwareUY/Xamarin.Forms.Skeleton?style=flat-square)](https://github.com/HorusSoftwareUY/Xamarin.Forms.Skeleton/commits) - A library that provides skeleton/ shimmer controls for activity indication. Targets Xamarin and MAUI
-
+- [Vapolia.UserInteraction](https://github.com/softlion/UserInteraction)
+  [![GitHub stars](https://img.shields.io/github/stars/softlion/UserInteraction?style=flat-square)](https://github.com/softlion/UserInteraction/stargazers) 
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/softlion/UserInteraction?style=flat-square)](https://github.com/softlion/UserInteraction/commits) - Blocking user interactions from anywhere: bottom menu, blocking wait indicator, confirmation prompts and alerts, simple inputs. With full control of the behavior. For both Maui and Xamarin.
+  
 ## Plugins
 
 - [BindableProps](https://github.com/KafkaWannaFly/BindableProps)
