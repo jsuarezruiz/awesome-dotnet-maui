@@ -91,6 +91,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [MAUI App Accelerator](https://github.com/mrlacey/MauiAppAccelerator)
   [![GitHub stars](https://img.shields.io/github/stars/mrlacey/MauiAppAccelerator?style=flat-square)](https://github.com/mrlacey/MauiAppAccelerator/stargazers) 
   [![GitHub last-commit](https://img.shields.io/github/last-commit/mrlacey/MauiAppAccelerator?style=flat-square)](https://github.com/mrlacey/MauiAppAccelerator/commits) - A Visual Studio extension to accelerate the creation of new .NET MAUI apps using a wizard-based UI.
+- [.NET Meteor](https://github.com/JaneySprings/DotNet.Meteor)
+  [![GitHub stars](https://img.shields.io/github/stars/JaneySprings/DotNet.Meteor?style=flat-square)](https://github.com/JaneySprings/DotNet.Meteor/stargazers) 
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/JaneySprings/DotNet.Meteor?style=flat-square)](https://github.com/JaneySprings/DotNet.Meteor/commits) - Build and Debug .NET MAUI Apps with Visual Studio Code.
 
 ## Blazor
 
