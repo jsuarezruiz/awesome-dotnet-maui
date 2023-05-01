@@ -218,6 +218,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [The49.Maui.BottomSheet](https://github.com/the49code/The49.Maui.BottomSheet)
   [![GitHub stars](https://img.shields.io/github/stars/the49code/The49.Maui.BottomSheet?style=flat-square)](https://github.com/the49code/The49.Maui.BottomSheet/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/the49code/The49.Maui.BottomSheet?style=flat-square)](https://github.com/the49code/The49.Maui.BottomSheet/commits) - Maui.BottomSheet is a .NET MAUI library used to display pages as Bottom Sheets.
+- [The49.Maui.ContextMenu](https://github.com/the49code/The49.Maui.ContextMenu) 
+  [![GitHub stars](https://img.shields.io/github/stars/the49code/The49.Maui.ContextMenu?style=flat-square)](https://github.com/the49code/The49.Maui.ContextMenu/stargazers) 
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/the49code/The49.Maui.ContextMenu?style=flat-square)](https://github.com/the49code/The49.Maui.ContextMenu/commits) - Maui.ContextMenu is a .NET MAUI library for Android and iOS used to open a native context menu on long press.
 - [UraniumUI](https://github.com/enisn/UraniumUI)
   [![GitHub stars](https://img.shields.io/github/stars/enisn/UraniumUI?style=flat-square)](https://github.com/enisn/UraniumUI/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/enisn/UraniumUI?style=flat-square)](https://github.com/enisn/UraniumUI/commits) - Uranium is a Free & Open-Source UI Kit for MAUI.  It provides a set of controls and utilities to build modern applications.
