@@ -91,6 +91,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [MAUI App Accelerator](https://github.com/mrlacey/MauiAppAccelerator)
   [![GitHub stars](https://img.shields.io/github/stars/mrlacey/MauiAppAccelerator?style=flat-square)](https://github.com/mrlacey/MauiAppAccelerator/stargazers) 
   [![GitHub last-commit](https://img.shields.io/github/last-commit/mrlacey/MauiAppAccelerator?style=flat-square)](https://github.com/mrlacey/MauiAppAccelerator/commits) - A Visual Studio extension to accelerate the creation of new .NET MAUI apps using a wizard-based UI.
+- [DotNet.Meteor](https://github.com/JaneySprings/DotNet.Meteor)
+  [![GitHub stars](https://img.shields.io/github/stars/JaneySprings/DotNet.Meteor?style=flat-square)](https://github.com/JaneySprings/DotNet.Meteor/stargazers) 
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/JaneySprings/DotNet.Meteor?style=flat-square)](https://github.com/JaneySprings/DotNet.Meteor/commits) - The .NET Meteor allows you to build, debug .NET 6 / .NET 7 apps and deploy them to devices or emulators.
 - [.NET Meteor](https://github.com/JaneySprings/DotNet.Meteor)
   [![GitHub stars](https://img.shields.io/github/stars/JaneySprings/DotNet.Meteor?style=flat-square)](https://github.com/JaneySprings/DotNet.Meteor/stargazers) 
   [![GitHub last-commit](https://img.shields.io/github/last-commit/JaneySprings/DotNet.Meteor?style=flat-square)](https://github.com/JaneySprings/DotNet.Meteor/commits) - Build and Debug .NET MAUI Apps with Visual Studio Code.
