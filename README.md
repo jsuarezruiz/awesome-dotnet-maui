@@ -154,7 +154,7 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
   [![GitHub last-commit](https://img.shields.io/github/last-commit/akgulebubekir/Maui.DataGrid?style=flat-square)](https://github.com/akgulebubekir/Maui.DataGrid/commits) - DataGrid library for .NET MAUI applications.
 - [MAUI.FreakyControls](https://github.com/FreakyAli/MAUI.FreakyControls)
   [![GitHub stars](https://img.shields.io/github/stars/FreakyAli/MAUI.FreakyControls?style=flat-square)](https://github.FreakyAli/MAUI.FreakyControls/stargazers)
-  [![GitHub last-commit](https://img.shields.io/github/last-commit/felipebaltazar/Maui.NeoControls?style=flat-square)](https://github.com/felipebaltazar/Maui.NeoControls/commits) - A full set of freaky controls for .Net Maui that do a tad bit more than your regular controls.
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/FreakyAli/MAUI.FreakyControls?style=flat-square)](https://github.com/FreakyAli/MAUI.FreakyControls/commits) - FreakyControls is a free OSS UI Kit for .NET MAUI which provides a set of controls and utilities to build modern mobile apps.
 - [Maui.NeoControls](https://github.com/felipebaltazar/Maui.NeoControls)
   [![GitHub stars](https://img.shields.io/github/stars/felipebaltazar/Maui.NeoControls?style=flat-square)](https://github.felipebaltazar/Maui.NeoControls/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/IeuanWalker/Maui.Breadcrumb?style=flat-square)](https://github.com/IeuanWalker/Maui.Breadcrumb/commits) - Controls for .NET MAUI based on neumorphism tendency.
