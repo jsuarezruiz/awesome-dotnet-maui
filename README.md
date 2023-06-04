@@ -167,6 +167,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [Maui.Markup](https://github.com/CommunityToolkit/Maui.Markup)
   [![GitHub stars](https://img.shields.io/github/stars/CommunityToolkit/Maui.Markup?style=flat-square)](https://github.CommunityToolkit/Maui.Markup/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/CommunityToolkit/Maui.Markup?style=flat-square)](https://github.com/CommunityToolkit/Maui.Markup/commits) - The .NET MAUI Markup Community Toolkit is a collection of Fluent C# Extension Methods that allows developers to continue architecting their apps using MVVM, Bindings, Resource Dictionaries, etc., without the need for XAML.
+- [MauiIcons](https://github.com/AathifMahir/MauiIcons) 
+  [![GitHub stars](https://img.shields.io/github/stars/AathifMahir/MauiIcons?style=flat-square)](https://github.com/AathifMahir/MauiIcons/stargazers) 
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/AathifMahir/MauiIcons?style=flat-square)](https://github.com/AathifMahir/MauiIcons/commits) - Fluent & Material is a Library to Resolves Icons or Font Icon Management on .Net Maui by Providing Controls with Complete Material Icon Collection Built into Library.
 - [maui-ratingcontrol](https://github.com/tsjdev-apps/maui-ratingcontrol)
   [![GitHub stars](https://img.shields.io/github/stars/tsjdev-apps/maui-ratingcontrol?style=flat-square)](https://github.tsjdev-apps/maui-ratingcontrol/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/tsjdev-apps/maui-ratingcontrol?style=flat-square)](https://github.com/tsjdev-apps/maui-ratingcontrol/commits) - Simple rating control using a Font in .NET MAUI.
