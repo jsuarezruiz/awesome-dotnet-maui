@@ -323,6 +323,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [ZXing.Net.MAUI](https://github.com/Redth/BigIslandBarcoding) 
   [![GitHub stars](https://img.shields.io/github/stars/Redth/BigIslandBarcoding?style=flat-square)](https://github.com/Redth/BigIslandBarcoding/stargazers) 
   [![GitHub last-commit](https://img.shields.io/github/last-commit/Redth/BigIslandBarcoding?style=flat-square)](https://github.com/Redth/BigIslandBarcoding/commits) - Barcode Scanning for .NET MAUI. The successor to ZXing.Net.Mobile.
+- [Epoxy](https://github.com/kekyo/Epoxy) 
+  [![GitHub stars](https://img.shields.io/github/stars/kekyo/Epoxy?style=flat-square)](https://github.com/kekyo/Epoxy/stargazers) 
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/kekyo/Epoxy?style=flat-square)](https://github.com/kekyo/Epoxy/commits) - Is a .NET XAML Model-View-ViewModel data-bindable infrastructure library, independent flexible API sets.
 - [Mavvm](https://github.com/vniehues/mavvm) 
   [![GitHub stars](https://img.shields.io/github/stars/vniehues/mavvm?style=flat-square)](https://github.com/vniehues/mavvm/stargazers) 
   [![GitHub last-commit](https://img.shields.io/github/last-commit/vniehues/mavvm?style=flat-square)](https://github.com/vniehues/mavvm/commits) - mavvm is a framework for .NET MAUI and Shell. It allows you to use the MVVM architecture you know and love from Xamarin applications with minimal configuration and overhead.
