@@ -299,6 +299,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [Plugin.Maui.AudioRecorder](https://github.com/math3ussdl/Plugin.Maui.AudioRecorder)
   [![GitHub stars](https://img.shields.io/github/stars/math3ussdl/Plugin.Maui.AudioRecorder?style=flat-square)](https://github.com/math3ussdl/Plugin.Maui.AudioRecorder/stargazers) 
   [![GitHub last-commit](https://img.shields.io/github/last-commit/math3ussdl/Plugin.Maui.AudioRecorder?style=flat-square)](https://github.com/math3ussdl/Plugin.Maui.AudioRecorder/commits) This plugin provides functionality to record audio and transcribe spoken text into written format in real-time, while saving the audio file.
+- [Plugin.LocalNotification](https://github.com/thudugala/Plugin.LocalNotification)
+  [![GitHub stars](https://img.shields.io/github/stars/thudugala/Plugin.LocalNotification?style=flat-square)](https://github.com/thudugala/Plugin.LocalNotification/stargazers) 
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/thudugala/Plugin.LocalNotification?style=flat-square)](https://github.com/thudugala/Plugin.LocalNotification/commits) The local notification plugin provides a way to show local notifications from Xamarin.Forms / .Net MAUI apps.
 - [Plugin.Maui.ScreenBrightness](https://github.com/jfversluis/Plugin.Maui.ScreenBrightness)
   [![GitHub stars](https://img.shields.io/github/stars/jfversluis/Plugin.Maui.ScreenBrightness?style=flat-square)](https://github.com/jfversluis/Plugin.Maui.ScreenBrightness/stargazers) 
   [![GitHub last-commit](https://img.shields.io/github/last-commit/jfversluis/Plugin.Maui.ScreenBrightness?style=flat-square)](https://github.com/jfversluis/Plugin.Maui.ScreenBrightness/commits) Plugin.Maui.ScreenBrightness provides the ability to get or set the screen brightness inside a .NET MAUI application.
