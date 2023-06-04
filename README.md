@@ -137,6 +137,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
   [![GitHub stars](https://img.shields.io/github/stars/IeuanWalker/Maui.Breadcrumb?style=flat-square)](https://github.com/IeuanWalker/Maui.Breadcrumb/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/IeuanWalker/Maui.Breadcrumb?style=flat-square)](https://github.com/IeuanWalker/Maui.Breadcrumb/commits) - This is a breadcrumb navigation control that is complete automatic and uses the Navigation stack and page titles to generate the breadcrumbs. It's also 100% accessible by default.
 - [DevExpress .NET MAUI Controls](https://www.devexpress.com/maui/) - A set of free .NET MAUI components including Charts, Data Grid, Scheduler, CollectionView and more 
+- [dotMorten.Maui.AutoSuggestBox](https://github.com/davefxy/dotMorten.Maui.AutoSuggestBox)
+  [![GitHub stars](https://img.shields.io/github/stars/davefxy/dotMorten.Maui.AutoSuggestBox?style=flat-square)](https://github.davefxy/dotMorten.Maui.AutoSuggestBox/stargazers)
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/davefxy/dotMorten.Maui.AutoSuggestBox?style=flat-square)](https://github.com/davefxy/dotMorten.Maui.AutoSuggestBox/commits) - Represents a text control that makes suggestions to users as they type.
 - [Mapsui](https://github.com/Mapsui/Mapsui)
   [![GitHub stars](https://img.shields.io/github/stars/Mapsui/Mapsui?style=flat-square)](https://github.Mapsui/Mapsui/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/Mapsui/Mapsui?style=flat-square)](https://github.com/Mapsui/Mapsui/commits) - Mapsui is a .NET Map component.
