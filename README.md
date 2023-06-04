@@ -272,6 +272,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [MauiBinding](https://github.com/realZhangChi/MauiBinding) 
   [![GitHub stars](https://img.shields.io/github/stars/realZhangChi/MauiBinding?style=flat-square)](https://github.com/realZhangChi/MauiBinding/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/realZhangChi/MauiBinding?style=flat-square)](https://github.com/realZhangChi/MauiBinding/commits) - MauiBinding converts native android and ios sdk to Maui binding library.
+- [MauiShakeDetector](https://github.com/AathifMahir/MauiShakeDetector)
+  [![GitHub stars](https://img.shields.io/github/stars/AathifMahir/MauiShakeDetector?style=flat-square)](https://github.com/AathifMahir/MauiShakeDetector/stargazers) 
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/AathifMahir/MauiShakeDetector?style=flat-square)](https://github.com/AathifMahir/MauiShakeDetector/commits) Maui Shake Detector is Shake Event Detector Library Which Detects Shake Event from Android, iOS and etc. with Options to Customize the Shake Gforce and Shake Intervals and Haptics and Haptics Duration and etc.
 - [Maui.BindableProperty.Generator](https://github.com/rrmanzano/maui-bindableproperty-generator) 
   [![GitHub stars](https://img.shields.io/github/stars/rrmanzano/maui-bindableproperty-generator?style=flat-square)](https://github.com/rrmanzano/maui-bindableproperty-generator/stargazers) 
   [![GitHub last-commit](https://img.shields.io/github/last-commit/rrmanzano/maui-bindableproperty-generator?style=flat-square)](https://github.com/rrmanzano/maui-bindableproperty-generator/commits) - Source generator that automatically transforms fields into BindableProperties that can be used in MAUI.
