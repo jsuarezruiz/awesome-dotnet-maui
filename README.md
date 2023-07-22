@@ -168,7 +168,10 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
   [![GitHub last-commit](https://img.shields.io/github/last-commit/FreakyAli/MAUI.FreakyControls?style=flat-square)](https://github.com/FreakyAli/MAUI.FreakyControls/commits) - FreakyControls is a free OSS UI Kit for .NET MAUI which provides a set of controls and utilities to build modern mobile apps.
 - [Maui.NeoControls](https://github.com/felipebaltazar/Maui.NeoControls)
   [![GitHub stars](https://img.shields.io/github/stars/felipebaltazar/Maui.NeoControls?style=flat-square)](https://github.felipebaltazar/Maui.NeoControls/stargazers)
-  [![GitHub last-commit](https://img.shields.io/github/last-commit/IeuanWalker/Maui.Breadcrumb?style=flat-square)](https://github.com/IeuanWalker/Maui.Breadcrumb/commits) - Controls for .NET MAUI based on neumorphism tendency.
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/felipebaltazar/Maui.NeoControls?style=flat-square)](https://github.com/felipebaltazar/Maui.NeoControls/commits) - Controls for .NET MAUI based on neumorphism tendency.
+- [Maui.NullableDateTimePicker](https://github.com/sebarslan/Maui.NullableDateTimePicker)
+  [![GitHub stars](https://img.shields.io/github/stars/sebarslan/Maui.NullableDateTimePicker?style=flat-square)](https://github.sebarslan/Maui.NullableDateTimePicker/stargazers)
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/sebarslan/Maui.NullableDateTimePicker?style=flat-square)](https://github.com/sebarslan/Maui.NullableDateTimePicker/commits) - The Nullable DateTimePicker is a custom calendar control for selecting a nullable date and time value in a .NET MAUI application.
 - [Maui.UITesting](https://github.com/Redth/Maui.UITesting)
   [![GitHub stars](https://img.shields.io/github/stars/Redth/Maui.UITesting?style=flat-square)](https://github.Redth/Maui.UITesting/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/Redth/Maui.UITesting?style=flat-square)](https://github.com/Redth/Maui.UITesting/commits) - Experimenting with UI Testing approaches for .NET / MAUI.
