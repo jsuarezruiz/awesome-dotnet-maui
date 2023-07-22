@@ -144,6 +144,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [CarouselView.Maui](https://github.com/microspaze/CarouselView.Maui)
   [![GitHub stars](https://img.shields.io/github/stars/microspaze/CarouselView.Maui?style=flat-square)](https://github.microspaze/CarouselView.Maui/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/microspaze/CarouselView.Maui?style=flat-square)](https://github.com/microspaze/CarouselView.Maui/commits) - CarouselView controls for .NET MAUI migrated from CarouselView.FormsPlugin for Xamarin.
+- [Controls.Userdialogs.Maui](https://github.com/Alex-Dobrynin/Controls.UserDialogs.Maui)
+  [![GitHub stars](https://img.shields.io/github/stars/Alex-Dobrynin/Controls.UserDialogs.Maui?style=flat-square)](https://github.Alex-Dobrynin/Controls.UserDialogs.Maui/stargazers)
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/Alex-Dobrynin/Controls.UserDialogs.Maui?style=flat-square)](https://github.com/Alex-Dobrynin/Controls.UserDialogs.Maui/commits) - A cross platform library that allows you to call for native user dialogs, which can by styled from your maui application anywhere anytime. Inspired by Allan Ritchie's Acr.UserDialogs.
 - [DevExpress .NET MAUI Controls](https://www.devexpress.com/maui/) - A set of free .NET MAUI components including Charts, Data Grid, Scheduler, CollectionView and more 
 - [dotMorten.Maui.AutoSuggestBox](https://github.com/davefxy/dotMorten.Maui.AutoSuggestBox)
   [![GitHub stars](https://img.shields.io/github/stars/davefxy/dotMorten.Maui.AutoSuggestBox?style=flat-square)](https://github.davefxy/dotMorten.Maui.AutoSuggestBox/stargazers)
