@@ -325,6 +325,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [MauiSettings](https://github.com/AndreasReitberger/MauiSettings) - 
   [![GitHub stars](https://img.shields.io/github/stars/AndreasReitberger/MauiSettings?style=flat-square)](https://github.com/AndreasReitberger/MauiSettings/stargazers) 
   [![GitHub last-commit](https://img.shields.io/github/last-commit/AndreasReitberger/MauiSettings?style=flat-square)](https://github.com/AndreasReitberger/MauiSettings/commits) A nuget to improve settings storage (locally and eventually in the cloud) on .NET MAUI projects.
+- [PersianUIControlsMaui](https://github.com/RezaShaban/PersianUIControlsMaui)
+  [![GitHub stars](https://img.shields.io/github/stars/https://github.com/RezaShaban/PersianUIControlsMaui?style=flat-square)](https://github.https://github.com/RezaShaban/PersianUIControlsMaui/stargazers)
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/https://github.com/RezaShaban/PersianUIControlsMaui?style=flat-square)](https://github.com/https://github.com/RezaShaban/PersianUIControlsMaui/commits) - Persian Calendar & some other controls for .NET MAUI
 - [Prism.Maui](https://github.com/dansiegel/Prism.Maui)
   [![GitHub stars](https://img.shields.io/github/stars/dansiegel/Prism.Maui?style=flat-square)](https://github.com/dansiegel/Prism.Maui/stargazers) 
   [![GitHub last-commit](https://img.shields.io/github/last-commit/dansiegel/Prism.Maui?style=flat-square)](https://github.com/dansiegel/Prism.Maui/commits) - Prism for .NET MAUI is more than simply a port of Prism for Xamarin.Forms. Many of the features remain largely untouched, however the codebase has been written specifically for MAUI. This is an experimental repo. The code here will eventually be merged into the main Prism repo as a full fledged platform at which time this repo will be archived.
