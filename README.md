@@ -371,3 +371,6 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [Plugin.Maui.ScreenSecurity](https://github.com/FabriBertani/Plugin.Maui.ScreenSecurity)
   [![GitHub stars](https://img.shields.io/github/stars/FabriBertani/Plugin.Maui.ScreenSecurity?style=flat-square)](https://github.com/FabriBertani/Plugin.Maui.ScreenSecurity)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/FabriBertani/Plugin.Maui.ScreenSecurity?style=flat-square)](https://github.com/FabriBertani/Plugin.Maui.ScreenSecurity/commits) - Safeguard your .NET MAUI app effortlessly by preventing content exposure, screenshots, and recordings with ease.
+- [LocalizationResourceManager.Maui](https://github.com/SirJohnK/LocalizationResourceManager.Maui)
+  [![GitHub stars](https://img.shields.io/github/stars/SirJohnK/LocalizationResourceManager.Maui?style=flat-square)](https://github.com/SirJohnK/LocalizationResourceManager.Maui)
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/SirJohnK/LocalizationResourceManager.Maui?style=flat-square)](https://github.com/SirJohnK/LocalizationResourceManager.Maui/commits) - Enhanced .NET MAUI version of the Xamarin Community Toolkit LocalizationResourceManager.
