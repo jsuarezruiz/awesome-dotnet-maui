@@ -48,9 +48,6 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [HackerNews](https://github.com/brminnick/HackerNews) 
   [![GitHub stars](https://img.shields.io/github/stars/brminnick/HackerNews?style=flat-square)](https://github.com/brminnick/HackerNews/stargazers) 
   [![GitHub last-commit](https://img.shields.io/github/last-commit/brminnick/HackerNews?style=flat-square)](https://github.com/brminnick/HackerNews/commits) - A .NET MAUI app for displaying the top posts on Hacker News that demonstrates text sentiment analysis gathered using artificial intelligence.
-- [JukaApp](https://github.com/jukaLang/jukaApp)
-  [![GitHub stars](https://img.shields.io/github/stars/jukaLang/jukaApp?style=flat-square)](https://github.com/jukaLang/jukaApp/stargazers) 
-  [![GitHub last-commit](https://img.shields.io/github/last-commit/jukaLang/jukaApp?style=flat-square)](https://github.com/jukaLang/jukaApp/commits) - A .NET MAUI editor for running Juka language.
 - [WeatherTwentyOne](https://github.com/davidortinau/WeatherTwentyOne/)
   [![GitHub stars](https://img.shields.io/github/stars/davidortinau/WeatherTwentyOne?style=flat-square)](https://github.com/davidortinau/WeatherTwentyOne/stargazers) 
   [![GitHub last-commit](https://img.shields.io/github/last-commit/davidortinau/WeatherTwentyOne?style=flat-square)](https://github.com/davidortinau/WeatherTwentyOne/commits) - Microsoft Build 2021 showcase app.
