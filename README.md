@@ -72,7 +72,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [Soferity: Game Portal](https://github.com/Soferity/GamePortal) 
   [![GitHub stars](https://img.shields.io/github/stars/Soferity/GamePortal?style=flat-square)](https://github.com/Soferity/GamePortal/stargazers) 
   [![GitHub last-commit](https://img.shields.io/github/last-commit/Soferity/GamePortal?style=flat-square)](https://github.com/Soferity/GamePortal/commits) - Soferity: Game Portal is a game hub. It allows you to have a fun and good time with the various types of games it offers.
-
+- [V2ex.MAUI](https://github.com/rwecho/V2ex.MAUI)
+ [![GitHub stars](https://img.shields.io/github/stars/rwecho/V2ex.MAUI?style=flat-square)](https://github.com/Soferity/GamePortal/stargazers)
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/rwecho/V2ex.MAUI?style=flat-square)](https://github.com/rwecho/V2ex.MAUI/commits) -A multi-platform, user-friendly, and feature-rich V2ex native application made by MAUI.
 ## Workshops
 
 - [.NET MAUI Workshop](https://github.com/dotnet-presentations/dotnet-maui-workshop)
