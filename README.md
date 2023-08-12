@@ -101,6 +101,7 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 
 ## Blazor
 
+- [Cropper.Blazor](https://github.com/CropperBlazor/Cropper.Blazor) - ![GitHub stars](https://img.shields.io/github/stars/CropperBlazor/Cropper.Blazor?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/CropperBlazor/Cropper.Blazor?style=flat-square&cacheSeconds=86400) <b>Cropper.Blazor</b> is a component that wraps around <a href="https://github.com/fengyuanchen/cropperjs"><b>Cropper.js</b></a> for cropping images in Blazor. Support Blazor Server, Blazor WebAssembly, Blazor Server Hybrid with MVC and MAUI Blazor Hybrid. [Demo](https://cropperblazor.github.io/demo).
 - [Bit Platform](https://github.com/bitfoundation/bitplatform)
   [![GitHub stars](https://img.shields.io/github/stars/bitfoundation/bitplatform?style=flat-square)](https://github.com/bitfoundation/bitplatform/stargazers) 
   [![GitHub last-commit](https://img.shields.io/github/last-commit/bitfoundation/bitplatform?style=flat-square)](https://github.com/bitfoundation/bitplatform/commits) - Ready to use project templates plus UI components focused on Blazor WASM/Hybrid(MAUI) that are extremely fast yet lightweight.
