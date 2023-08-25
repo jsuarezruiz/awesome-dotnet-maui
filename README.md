@@ -117,6 +117,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [Taiizor.Essentials.Blazor](https://github.com/Taiizor/Taiizor.Essentials.Blazor)
   [![GitHub stars](https://img.shields.io/github/stars/Taiizor/Taiizor.Essentials.Blazor?style=flat-square)](https://github.com/Taiizor/Taiizor.Essentials.Blazor/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/Taiizor/Taiizor.Essentials.Blazor?style=flat-square)](https://github.com/Taiizor/Taiizor.Essentials.Blazor/commits) - Taiizor.Essentials.Blazor is a essentials library for projects using .NET Blazor. It provides convenience with various functions it offers.
+- [Radzen.Blazor](https://github.com/radzenhq/radzen-blazor)
+  [![GitHub stars](https://img.shields.io/github/stars/radzenhq/radzen-blazor?style=flat-square)](https://github.com/radzenhq/radzen-blazor/stargazers)
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/radzenhq/radzen-blazor?style=flat-square)](https://github.com/radzenhq/radzen-blazor/commits) - Robust Blazor component library supporting WASM and Server and multiple themes.  Also available is a WYSIWIG desktop application ([Radzen Blazor Studio](https://www.radzen.com/blazor-studio/)) with auto-CRUD builders.  Freemium options for additional themes and functionality.
 
 ## UI
 
