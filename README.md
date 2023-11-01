@@ -29,9 +29,6 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 
 ## Samples
 
-- [.NET 6 & 7 Mobile Samples](https://github.com/dotnet/net6-mobile-samples)
-  [![GitHub stars](https://img.shields.io/github/stars/dotnet/net6-mobile-samples?style=flat-square)](https://github.com/dotnet/net6-mobile-samples/stargazers) 
-  [![GitHub last-commit](https://img.shields.io/github/last-commit/dotnet/net6-mobile-samples?style=flat-square)](https://github.com/dotnet/net6-mobile-samples/commits) - .NET 6 preview samples.
 - [Official .NET MAUI Samples](https://github.com/dotnet/maui-samples)
   [![GitHub stars](https://img.shields.io/github/stars/dotnet/maui-samples?style=flat-square)](https://github.com/dotnet/maui-samples/stargazers) 
   [![GitHub last-commit](https://img.shields.io/github/last-commit/dotnet/maui-samples?style=flat-square)](https://github.com/dotnet/maui-samples/commits) - Official .NET MAUI Samples from the .NET MAUI Team!
