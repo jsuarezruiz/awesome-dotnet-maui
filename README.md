@@ -378,3 +378,6 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [LocalizationResourceManager.Maui](https://github.com/SirJohnK/LocalizationResourceManager.Maui)
   [![GitHub stars](https://img.shields.io/github/stars/SirJohnK/LocalizationResourceManager.Maui?style=flat-square)](https://github.com/SirJohnK/LocalizationResourceManager.Maui)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/SirJohnK/LocalizationResourceManager.Maui?style=flat-square)](https://github.com/SirJohnK/LocalizationResourceManager.Maui/commits) - Enhanced .NET MAUI version of the Xamarin Community Toolkit LocalizationResourceManager.
+- [Aptabase.Maui]([https://github.com/SirJohnK/LocalizationResourceManager.Maui](https://aptabase.com/for-maui))
+  [![GitHub stars](https://img.shields.io/github/stars/aptabase/aptabase-maui?style=flat-square)](https://github.com/aptabase/aptabase-maui)
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/aptabase/aptabase-maui?style=flat-square)](https://github.com/aptabase/aptabase-maui/commits) - Analytics for .NET MAUI Apps. 100% Open Source, Privacy-Friendly and Simple.
