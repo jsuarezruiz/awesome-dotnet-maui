@@ -220,9 +220,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [CodeMarkup for Maui](https://github.com/idexus/CodeMarkup-Maui)
   [![GitHub stars](https://img.shields.io/github/stars/idexus/CodeMarkup-Maui?style=flat-square)](https://github.com/idexus/CodeMarkup-Maui/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/idexus/CodeMarkup-Maui?style=flat-square)](https://github.com/idexus/Sharp.UI/commits) - C# Code Markup Library for .NET MAUI: UI Development with Fluent Methods and Hot Reload
-- [OxyPlot.Maui.Skia](https://github.com/iniceice88/OxyPlot.Maui.Skia)
-  [![GitHub stars](https://img.shields.io/github/stars/iniceice88/OxyPlot.Maui.Skia?style=flat-square)](https://github.com/iniceice88/OxyPlot.Maui.Skia/stargazers)
-  [![GitHub last-commit](https://img.shields.io/github/last-commit/iniceice88/OxyPlot.Maui.Skia?style=flat-square)](https://github.com/iniceice88/OxyPlot.Maui.Skia/commits) - This repository contains the Maui implementation with SkiaSharp.
+- [OxyPlot.Maui.Skia](https://github.com/oxyplot/oxyplot-maui)
+  [![GitHub stars](https://img.shields.io/github/stars/iniceice88/OxyPlot.Maui.Skia?style=flat-square)](https://github.com/oxyplot/oxyplot-maui/stargazers)
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/iniceice88/OxyPlot.Maui.Skia?style=flat-square)](https://github.com/oxyplot/oxyplot-maui/commits) - This repository contains the Maui implementation with SkiaSharp.
 - [SharpConstraintLayout](https://github.com/xtuzy/SharpConstraintLayout)
   [![GitHub stars](https://img.shields.io/github/stars/xtuzy/SharpConstraintLayout?style=flat-square)](https://github.com/xtuzy/SharpConstraintLayout/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/xtuzy/SharpConstraintLayout?style=flat-square)](https://github.com/xtuzy/SharpConstraintLayout/commits) - This is a C# port of ConstraintLayout, it convert constraintlayout.core and create ConstraintLayout for dotnet UI framework. Now, you can use ConstraintLayout in C# world.
