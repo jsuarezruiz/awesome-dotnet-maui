@@ -72,6 +72,7 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [V2ex.MAUI](https://github.com/rwecho/V2ex.MAUI)
  [![GitHub stars](https://img.shields.io/github/stars/rwecho/V2ex.MAUI?style=flat-square)](https://github.com/Soferity/GamePortal/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/rwecho/V2ex.MAUI?style=flat-square)](https://github.com/rwecho/V2ex.MAUI/commits) -A multi-platform, user-friendly, and feature-rich V2ex native application made by MAUI.
+- [NightClub](https://github.com/Kapusch/blog-dotnet-maui/tree/main/Samples/NightClub) - Build a highly colorful music application [step-by-step](https://www.mauicestclair.fr/en/posts/tutos/my-first-app/)! 💃🏾🕺🏻🪩 Uses C# Markup (i.e. no XAML), MVVM & MediaElement.
 ## Workshops
 
 - [.NET MAUI Workshop](https://github.com/dotnet-presentations/dotnet-maui-workshop)
