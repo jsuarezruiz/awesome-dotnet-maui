@@ -24,6 +24,7 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
   - [Plugins](#plugins)
 
 ## Books
+- [.NET MAUI in Action](https://www.manning.com/books/dot-net-maui-in-action): authored by Matt Goldman
 - [.NET MAUI for C# Developers: Build cross-platform mobile and desktop applications](https://www.amazon.com/NET-MAUI-Developers-cross-platform-applications-ebook/dp/B0BX3R3W9V): authored by Jesse Liberty and Rodrigo Juarez
 - [Enterprise Application Patterns using .NET MAUI](https://dotnet.microsoft.com/en-us/download/e-book/maui/pdf): authored by Michael Stonis
 
