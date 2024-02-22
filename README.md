@@ -76,8 +76,7 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [NightClub](https://github.com/Kapusch/blog-dotnet-maui/tree/main/Samples/NightClub) - Build a highly colorful music application [step-by-step](https://www.mauicestclair.fr/en/posts/tutos/my-first-app/)! 💃🏾🕺🏻🪩 Uses C# Markup (i.e. no XAML), MVVM & MediaElement.
 - [Sharing.WebBlazor.MauiHybrid](https://github.com/Hona/Sharing.WebBlazor.MauiHybrid)
   [![GitHub stars](https://img.shields.io/github/stars/Hona/Sharing.WebBlazor.MauiHybrid?style=flat-square)](https://github.com/Hona/Sharing.WebBlazor.MauiHybrid/stargazers)
-  [![GitHub last-commit](https://img.shields.io/github/last-commit/Hona/Sharing.WebBlazor.MauiHybrid?style=flat-square)](https://github.com/Hona/Sharing.WebBlazor.MauiHybrid/commits) - About
-This repo is demoing how to code share pages, routes, component branding & most importantly authentication flow/authorization rules (with Auth0). For a web portal for browser access and a native iOS/Android mobile app using MAUI Hybrid
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/Hona/Sharing.WebBlazor.MauiHybrid?style=flat-square)](https://github.com/Hona/Sharing.WebBlazor.MauiHybrid/commits) - This repo is demoing how to code share pages, routes, component branding & most importantly authentication flow/authorization rules (with Auth0). For a web portal for browser access and a native iOS/Android mobile app using MAUI Hybrid
 
 ## Workshops
 
