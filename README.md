@@ -168,6 +168,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [MAUI.FreakyControls](https://github.com/FreakyAli/MAUI.FreakyControls)
   [![GitHub stars](https://img.shields.io/github/stars/FreakyAli/MAUI.FreakyControls?style=flat-square)](https://github.FreakyAli/MAUI.FreakyControls/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/FreakyAli/MAUI.FreakyControls?style=flat-square)](https://github.com/FreakyAli/MAUI.FreakyControls/commits) - FreakyControls is a free OSS UI Kit for .NET MAUI which provides a set of controls and utilities to build modern mobile apps.
+- [Maui.FreakyEffects](https://github.com/FreakyAli/Maui.FreakyEffects)
+  [![GitHub stars](https://img.shields.io/github/stars/FreakyAli/Maui.FreakyEffects?style=flat-square)](https://github.FreakyAli/Maui.FreakyEffects/stargazers)
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/FreakyAli/Maui.FreakyEffects?style=flat-square)](https://github.com/FreakyAli/Maui.FreakyEffects/commits) - FreakyEffects is an effects kit for .NET MAUI which provides a set of effects and utilities to build modern mobile apps.
 - [Maui.NeoControls](https://github.com/felipebaltazar/Maui.NeoControls)
   [![GitHub stars](https://img.shields.io/github/stars/felipebaltazar/Maui.NeoControls?style=flat-square)](https://github.felipebaltazar/Maui.NeoControls/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/felipebaltazar/Maui.NeoControls?style=flat-square)](https://github.com/felipebaltazar/Maui.NeoControls/commits) - Controls for .NET MAUI based on neumorphism tendency.
@@ -380,3 +383,6 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [Aptabase.Maui](https://aptabase.com/for-maui)
   [![GitHub stars](https://img.shields.io/github/stars/aptabase/aptabase-maui?style=flat-square)](https://github.com/aptabase/aptabase-maui)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/aptabase/aptabase-maui?style=flat-square)](https://github.com/aptabase/aptabase-maui/commits) - Analytics for .NET MAUI Apps. 100% Open Source, Privacy-Friendly and Simple.
+- [Plugin.Maui.Biometric](https://github.com/FreakyAli/Plugin.Maui.Biometric)
+  [![GitHub stars](https://img.shields.io/github/stars/FreakyAli/Plugin.Maui.Biometric?style=flat-square)](https://github.FreakyAli/Plugin.Maui.Biometric/stargazers)
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/FreakyAli/Plugin.Maui.Biometric?style=flat-square)](https://github.com/FreakyAli/Plugin.Maui.Biometric/commits) - A biometric plugin for .NET MAUI.
