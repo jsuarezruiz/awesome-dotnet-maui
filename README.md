@@ -74,6 +74,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
  [![GitHub stars](https://img.shields.io/github/stars/rwecho/V2ex.MAUI?style=flat-square)](https://github.com/Soferity/GamePortal/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/rwecho/V2ex.MAUI?style=flat-square)](https://github.com/rwecho/V2ex.MAUI/commits) -A multi-platform, user-friendly, and feature-rich V2ex native application made by MAUI.
 - [NightClub](https://github.com/Kapusch/blog-dotnet-maui/tree/main/Samples/NightClub) - Build a highly colorful music application [step-by-step](https://www.mauicestclair.fr/en/posts/tutos/my-first-app/)! 💃🏾🕺🏻🪩 Uses C# Markup (i.e. no XAML), MVVM & MediaElement.
+- [Swashbuckler Diary](https://github.com/Yu-Core/SwashbucklerDiary)
+ [![GitHub stars](https://img.shields.io/github/stars/Yu-Core/SwashbucklerDiary?style=flat-square)](https://github.com/Yu-Core/SwashbucklerDiary/stargazers)
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/Yu-Core/SwashbucklerDiary?style=flat-square)](https://github.com/Yu-Core/SwashbucklerDiary/commits) An open source cross-platform local diary app using MAUI Blazor.
 ## Workshops
 
 - [.NET MAUI Workshop](https://github.com/dotnet-presentations/dotnet-maui-workshop)
