@@ -74,9 +74,13 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
  [![GitHub stars](https://img.shields.io/github/stars/rwecho/V2ex.MAUI?style=flat-square)](https://github.com/Soferity/GamePortal/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/rwecho/V2ex.MAUI?style=flat-square)](https://github.com/rwecho/V2ex.MAUI/commits) -A multi-platform, user-friendly, and feature-rich V2ex native application made by MAUI.
 - [NightClub](https://github.com/Kapusch/blog-dotnet-maui/tree/main/Samples/NightClub) - Build a highly colorful music application [step-by-step](https://www.mauicestclair.fr/en/posts/tutos/my-first-app/)! 💃🏾🕺🏻🪩 Uses C# Markup (i.e. no XAML), MVVM & MediaElement.
+- [Sharing.WebBlazor.MauiHybrid](https://github.com/Hona/Sharing.WebBlazor.MauiHybrid)
+  [![GitHub stars](https://img.shields.io/github/stars/Hona/Sharing.WebBlazor.MauiHybrid?style=flat-square)](https://github.com/Hona/Sharing.WebBlazor.MauiHybrid/stargazers)
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/Hona/Sharing.WebBlazor.MauiHybrid?style=flat-square)](https://github.com/Hona/Sharing.WebBlazor.MauiHybrid/commits) - This repo is demoing how to code share pages, routes, component branding & most importantly authentication flow/authorization rules (with Auth0). For a web portal for browser access and a native iOS/Android mobile app using MAUI Hybrid
 - [Swashbuckler Diary](https://github.com/Yu-Core/SwashbucklerDiary)
  [![GitHub stars](https://img.shields.io/github/stars/Yu-Core/SwashbucklerDiary?style=flat-square)](https://github.com/Yu-Core/SwashbucklerDiary/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/Yu-Core/SwashbucklerDiary?style=flat-square)](https://github.com/Yu-Core/SwashbucklerDiary/commits) An open source cross-platform local diary app using MAUI Blazor.
+
 ## Workshops
 
 - [.NET MAUI Workshop](https://github.com/dotnet-presentations/dotnet-maui-workshop)
@@ -171,6 +175,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [MAUI.FreakyControls](https://github.com/FreakyAli/MAUI.FreakyControls)
   [![GitHub stars](https://img.shields.io/github/stars/FreakyAli/MAUI.FreakyControls?style=flat-square)](https://github.FreakyAli/MAUI.FreakyControls/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/FreakyAli/MAUI.FreakyControls?style=flat-square)](https://github.com/FreakyAli/MAUI.FreakyControls/commits) - FreakyControls is a free OSS UI Kit for .NET MAUI which provides a set of controls and utilities to build modern mobile apps.
+- [Maui.FreakyEffects](https://github.com/FreakyAli/Maui.FreakyEffects)
+  [![GitHub stars](https://img.shields.io/github/stars/FreakyAli/Maui.FreakyEffects?style=flat-square)](https://github.FreakyAli/Maui.FreakyEffects/stargazers)
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/FreakyAli/Maui.FreakyEffects?style=flat-square)](https://github.com/FreakyAli/Maui.FreakyEffects/commits) - FreakyEffects is an effects kit for .NET MAUI which provides a set of effects and utilities to build modern mobile apps.
 - [Maui.NeoControls](https://github.com/felipebaltazar/Maui.NeoControls)
   [![GitHub stars](https://img.shields.io/github/stars/felipebaltazar/Maui.NeoControls?style=flat-square)](https://github.felipebaltazar/Maui.NeoControls/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/felipebaltazar/Maui.NeoControls?style=flat-square)](https://github.com/felipebaltazar/Maui.NeoControls/commits) - Controls for .NET MAUI based on neumorphism tendency.
@@ -222,9 +229,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [OverFlower](https://github.com/nor0x/OverFlower)
   [![GitHub stars](https://img.shields.io/github/stars/nor0x/OverFlower?style=flat-square)](https://github.com/nor0x/OverFlower/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/nor0x/OverFlower?style=flat-square)](https://github.com/nor0x/OverFlower/commits) - Endless scroller control for .NET MAUI.
-- [CodeMarkup for Maui](https://github.com/idexus/CodeMarkup-Maui)
-  [![GitHub stars](https://img.shields.io/github/stars/idexus/CodeMarkup-Maui?style=flat-square)](https://github.com/idexus/CodeMarkup-Maui/stargazers)
-  [![GitHub last-commit](https://img.shields.io/github/last-commit/idexus/CodeMarkup-Maui?style=flat-square)](https://github.com/idexus/Sharp.UI/commits) - C# Code Markup Library for .NET MAUI: UI Development with Fluent Methods and Hot Reload
+- [Sharp.UI](https://github.com/idexus/Sharp.UI)
+  [![GitHub stars](https://img.shields.io/github/stars/idexus/Sharp.UI?style=flat-square)](https://github.com/idexus/CodeMarkup-Maui/stargazers)
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/idexus/Sharp.UI?style=flat-square)](https://github.com/idexus/Sharp.UI/commits) - C# Code Markup Library for .NET MAUI: UI Development with Fluent Methods and Hot Reload (VS Code and VS2022)
 - [OxyPlot.Maui.Skia](https://github.com/oxyplot/oxyplot-maui)
   [![GitHub stars](https://img.shields.io/github/stars/iniceice88/OxyPlot.Maui.Skia?style=flat-square)](https://github.com/oxyplot/oxyplot-maui/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/iniceice88/OxyPlot.Maui.Skia?style=flat-square)](https://github.com/oxyplot/oxyplot-maui/commits) - This repository contains the Maui implementation with SkiaSharp.
@@ -383,3 +390,6 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [Aptabase.Maui](https://aptabase.com/for-maui)
   [![GitHub stars](https://img.shields.io/github/stars/aptabase/aptabase-maui?style=flat-square)](https://github.com/aptabase/aptabase-maui)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/aptabase/aptabase-maui?style=flat-square)](https://github.com/aptabase/aptabase-maui/commits) - Analytics for .NET MAUI Apps. 100% Open Source, Privacy-Friendly and Simple.
+- [Plugin.Maui.Biometric](https://github.com/FreakyAli/Plugin.Maui.Biometric)
+  [![GitHub stars](https://img.shields.io/github/stars/FreakyAli/Plugin.Maui.Biometric?style=flat-square)](https://github.FreakyAli/Plugin.Maui.Biometric/stargazers)
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/FreakyAli/Plugin.Maui.Biometric?style=flat-square)](https://github.com/FreakyAli/Plugin.Maui.Biometric/commits) - A biometric plugin for .NET MAUI.
