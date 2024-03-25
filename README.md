@@ -77,6 +77,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [Sharing.WebBlazor.MauiHybrid](https://github.com/Hona/Sharing.WebBlazor.MauiHybrid)
   [![GitHub stars](https://img.shields.io/github/stars/Hona/Sharing.WebBlazor.MauiHybrid?style=flat-square)](https://github.com/Hona/Sharing.WebBlazor.MauiHybrid/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/Hona/Sharing.WebBlazor.MauiHybrid?style=flat-square)](https://github.com/Hona/Sharing.WebBlazor.MauiHybrid/commits) - This repo is demoing how to code share pages, routes, component branding & most importantly authentication flow/authorization rules (with Auth0). For a web portal for browser access and a native iOS/Android mobile app using MAUI Hybrid
+- [AStore App](https://github.com/akv3sic/MAUI-store-app)
+  [![GitHub stars](https://img.shields.io/github/stars/akv3sic/MAUI-store-app?style=flat-square)](https://github.com/akv3sic/MAUI-store-app/stargazers)
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/akv3sic/MAUI-store-app?style=flat-square)](https://github.com/akv3sic/MAUI-store-app/commits) - AStore is a simple e-commerce app built with .NET MAUI. Uses MVVM architecture. UI built with XAML.
 
 ## Workshops
 
