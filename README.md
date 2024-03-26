@@ -13,7 +13,7 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 [Contributions are always welcome!](CONTRIBUTING.md)
 
 ## Contents
-- [Awesome .NET MAUI ](#awesome-net-maui-)
+- [Awesome .NET MAUI](#awesome-net-maui-)
   - [Contents](#contents)
   - [Books](#books)
   - [Samples](#samples)
@@ -78,7 +78,7 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
   [![GitHub stars](https://img.shields.io/github/stars/Hona/Sharing.WebBlazor.MauiHybrid?style=flat-square)](https://github.com/Hona/Sharing.WebBlazor.MauiHybrid/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/Hona/Sharing.WebBlazor.MauiHybrid?style=flat-square)](https://github.com/Hona/Sharing.WebBlazor.MauiHybrid/commits) - This repo is demoing how to code share pages, routes, component branding & most importantly authentication flow/authorization rules (with Auth0). For a web portal for browser access and a native iOS/Android mobile app using MAUI Hybrid
 - [Swashbuckler Diary](https://github.com/Yu-Core/SwashbucklerDiary)
-  [![GitHub stars](https://img.shields.io/github/stars/Yu-Core/SwashbucklerDiary?style=flat-square)](https://github.com/Yu-Core/SwashbucklerDiary/stargazers)
+ [![GitHub stars](https://img.shields.io/github/stars/Yu-Core/SwashbucklerDiary?style=flat-square)](https://github.com/Yu-Core/SwashbucklerDiary/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/Yu-Core/SwashbucklerDiary?style=flat-square)](https://github.com/Yu-Core/SwashbucklerDiary/commits) An open source cross-platform local diary app using MAUI Blazor.
 - [AStore App](https://github.com/akv3sic/MAUI-store-app)
   [![GitHub stars](https://img.shields.io/github/stars/akv3sic/MAUI-store-app?style=flat-square)](https://github.com/akv3sic/MAUI-store-app/stargazers)
