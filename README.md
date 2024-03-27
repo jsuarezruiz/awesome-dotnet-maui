@@ -80,6 +80,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [Swashbuckler Diary](https://github.com/Yu-Core/SwashbucklerDiary)
  [![GitHub stars](https://img.shields.io/github/stars/Yu-Core/SwashbucklerDiary?style=flat-square)](https://github.com/Yu-Core/SwashbucklerDiary/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/Yu-Core/SwashbucklerDiary?style=flat-square)](https://github.com/Yu-Core/SwashbucklerDiary/commits) An open source cross-platform local diary app using MAUI Blazor.
+- [AStore App](https://github.com/akv3sic/MAUI-store-app)
+  [![GitHub stars](https://img.shields.io/github/stars/akv3sic/MAUI-store-app?style=flat-square)](https://github.com/akv3sic/MAUI-store-app/stargazers)
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/akv3sic/MAUI-store-app?style=flat-square)](https://github.com/akv3sic/MAUI-store-app/commits) - AStore is a simple e-commerce app built with .NET MAUI. Uses MVVM architecture. UI built with XAML.
 
 ## Workshops
 
