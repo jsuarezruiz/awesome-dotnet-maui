@@ -85,7 +85,7 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
   [![GitHub last-commit](https://img.shields.io/github/last-commit/akv3sic/MAUI-store-app?style=flat-square)](https://github.com/akv3sic/MAUI-store-app/commits) - AStore is a simple e-commerce app built with .NET MAUI. Uses MVVM architecture. UI built with XAML.
 - [MyFinance App](https://github.com/gonultasmf/MyFinance)
   [![GitHub stars](https://img.shields.io/github/stars/gonultasmf/MyFinance?style=flat-square)](https://github.com/gonultasmf/MyFinance/stargazers)
-  [![GitHub last-commit](https://img.shields.io/github/last-commit/gonultasmf/MyFinance?style=flat-square)](https://github.com/gonultasmf/MyFinance/commits) - AStore is a simple e-commerce app built with .NET MAUI. Uses MVVM architecture. UI built with XAML.
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/gonultasmf/MyFinance?style=flat-square)](https://github.com/gonultasmf/MyFinance/commits) - It is a beautifully designed Finance application for .NET MAUI Markup(No XAML) enthusiasts. Made with FmgLib.MauiMarkup.
 
 ## Workshops
 
