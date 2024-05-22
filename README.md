@@ -83,6 +83,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [AStore App](https://github.com/akv3sic/MAUI-store-app)
   [![GitHub stars](https://img.shields.io/github/stars/akv3sic/MAUI-store-app?style=flat-square)](https://github.com/akv3sic/MAUI-store-app/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/akv3sic/MAUI-store-app?style=flat-square)](https://github.com/akv3sic/MAUI-store-app/commits) - AStore is a simple e-commerce app built with .NET MAUI. Uses MVVM architecture. UI built with XAML.
+- [MyFinance App](https://github.com/gonultasmf/MyFinance)
+  [![GitHub stars](https://img.shields.io/github/stars/gonultasmf/MyFinance?style=flat-square)](https://github.com/gonultasmf/MyFinance/stargazers)
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/gonultasmf/MyFinance?style=flat-square)](https://github.com/gonultasmf/MyFinance/commits) - It is a beautifully designed Finance application for .NET MAUI Markup(No XAML) enthusiasts. Made with FmgLib.MauiMarkup.
 
 ## Workshops
 
@@ -135,6 +138,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [.NET MAUI Community Toolkit](https://github.com/CommunityToolkit/Maui)
   [![GitHub stars](https://img.shields.io/github/stars/CommunityToolkit/Maui?style=flat-square)](https://github.com/CommunityToolkit/Maui/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/CommunityToolkit/Maui?style=flat-square)](https://github.com/CommunityToolkit/Maui/commits) - The .NET MAUI Community Toolkit is a community-created library that contains .NET MAUI Extensions, Advanced UI/UX Controls, Effects, and Behaviors to help make your life as a .NET MAUI developer easier.
+- [FmgLib.MauiMarkup](https://github.com/FmgLib/FmgLib.MauiMarkup)
+  [![GitHub stars](https://img.shields.io/github/stars/FmgLib/FmgLib.MauiMarkup?style=flat-square)](https://github.com/FmgLib/FmgLib.MauiMarkup/stargazers)
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/FmgLib/FmgLib.MauiMarkup?style=flat-square)](https://github.com/FmgLib/FmgLib.MauiMarkup/commits) - FmgLib.MauiMarkup with C# Markup classes and fluent helper methods and HotReload.
 - [AcrylicView.MAUI](https://github.com/sswi/AcrylicView.MAUI)
   [![GitHub stars](https://img.shields.io/github/stars/sswi/AcrylicView.MAUI?style=flat-square)](https://github.com/sswi/AcrylicView.MAUI/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/sswi/AcrylicView.MAUI?style=flat-square)](https://github.com/sswi/AcrylicView.MAUI/commits) - Acrylic creates a translucent texture.
