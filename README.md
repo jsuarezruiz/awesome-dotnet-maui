@@ -169,6 +169,8 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [dotMorten.Maui.AutoSuggestBox](https://github.com/davefxy/dotMorten.Maui.AutoSuggestBox)
   [![GitHub stars](https://img.shields.io/github/stars/davefxy/dotMorten.Maui.AutoSuggestBox?style=flat-square)](https://github.davefxy/dotMorten.Maui.AutoSuggestBox/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/davefxy/dotMorten.Maui.AutoSuggestBox?style=flat-square)](https://github.com/davefxy/dotMorten.Maui.AutoSuggestBox/commits) - Represents a text control that makes suggestions to users as they type.
+- [FmgLib.MauiMarkup](https://github.com/FmgLib/FmgLib.MauiMarkup)[![GitHub stars](https://img.shields.io/github/stars/FmgLib/FmgLib.MauiMarkup?style=flat-square)](https://github.com/FmgLib/FmgLib.MauiMarkup/stargazers)
+[![GitHub last-commit](https://img.shields.io/github/last-commit/FmgLib/FmgLib.MauiMarkup?style=flat-square)](https://github.com/FmgLib/FmgLib.MauiMarkup/commits) - It provides developers with a straightforward and flexible approach to building user interfaces using C# code.  
 - [Mapsui](https://github.com/Mapsui/Mapsui)
   [![GitHub stars](https://img.shields.io/github/stars/Mapsui/Mapsui?style=flat-square)](https://github.Mapsui/Mapsui/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/Mapsui/Mapsui?style=flat-square)](https://github.com/Mapsui/Mapsui/commits) - Mapsui is a .NET Map component.
