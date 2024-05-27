@@ -348,6 +348,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [Plugin.Maui.AudioRecorder](https://github.com/math3ussdl/Plugin.Maui.AudioRecorder)
   [![GitHub stars](https://img.shields.io/github/stars/math3ussdl/Plugin.Maui.AudioRecorder?style=flat-square)](https://github.com/math3ussdl/Plugin.Maui.AudioRecorder/stargazers) 
   [![GitHub last-commit](https://img.shields.io/github/last-commit/math3ussdl/Plugin.Maui.AudioRecorder?style=flat-square)](https://github.com/math3ussdl/Plugin.Maui.AudioRecorder/commits) This plugin provides functionality to record audio and transcribe spoken text into written format in real-time, while saving the audio file.
+- [Plugin.Maui.UITestHelpers](https://github.com/jfversluis/Plugin.Maui.UITestHelpers)
+[![GitHub stars](https://img.shields.io/github/stars/jfversluis/Plugin.Maui.UITestHelpers?style=flat-square)](https://github.com/jfversluis/Plugin.Maui.UITestHelpers/stargazers)
+[![GitHub last-commit](https://img.shields.io/github/last-commit/jfversluis/Plugin.Maui.UITestHelpers?style=flat-square)](https://github.com/jfversluis/Plugin.Maui.UITestHelpers/commits) - Provides a set of helpers to support UI testing your .NET MAUI app with Appium and migration from Xamarin.UITest to Appium.  
 - [Plugin.LocalNotification](https://github.com/thudugala/Plugin.LocalNotification)
   [![GitHub stars](https://img.shields.io/github/stars/thudugala/Plugin.LocalNotification?style=flat-square)](https://github.com/thudugala/Plugin.LocalNotification/stargazers) 
   [![GitHub last-commit](https://img.shields.io/github/last-commit/thudugala/Plugin.LocalNotification?style=flat-square)](https://github.com/thudugala/Plugin.LocalNotification/commits) The local notification plugin provides a way to show local notifications from Xamarin.Forms / .Net MAUI apps.
