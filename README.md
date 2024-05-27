@@ -288,6 +288,11 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
   
 ## Plugins
 
+- [BarcodeScanning.Native.Maui](https://github.com/afriscic/BarcodeScanning.Native.Maui)
+[![GitHub stars](https://img.shields.io/github/stars/afriscic/BarcodeScanning.Native.Maui?style=flat-square)](https://github.com/afriscic/BarcodeScanning.Native.Maui/stargazers)
+[![GitHub last-commit](https://img.shields.io/github/last-commit/afriscic/BarcodeScanning.Native.Maui?style=flat-square)](https://github.com/afriscic/BarcodeScanning.Native.Maui/commits) - Barcode scanning library based on native platform APIs for barcode detection:
+  - Google ML Kit
+  - Apple Vision framework
 - [BindableProps](https://github.com/KafkaWannaFly/BindableProps)
   [![GitHub stars](https://img.shields.io/github/stars/KafkaWannaFly/BindableProps?style=flat-square)](https://github.com/KafkaWannaFly/BindableProps/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/KafkaWannaFly/BindableProps?style=flat-square)](https://github.com/KafkaWannaFly/BindableProps/commits) - This library helps you to reduce writing boilerplate code when creating your custom UI components.
