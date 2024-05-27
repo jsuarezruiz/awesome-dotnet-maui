@@ -285,6 +285,9 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 - [Vapolia.UserInteraction](https://github.com/softlion/UserInteraction)
   [![GitHub stars](https://img.shields.io/github/stars/softlion/UserInteraction?style=flat-square)](https://github.com/softlion/UserInteraction/stargazers) 
   [![GitHub last-commit](https://img.shields.io/github/last-commit/softlion/UserInteraction?style=flat-square)](https://github.com/softlion/UserInteraction/commits) - Blocking user interactions from anywhere: bottom menu, blocking wait indicator, confirmation prompts and alerts, simple inputs. With full control of the behavior. For both Maui and Xamarin.
+- [VirtualizeListView](https://github.com/MPowerKit/VirtualizeListView)
+[![GitHub stars](https://img.shields.io/github/stars/MPowerKit/VirtualizeListView?style=flat-square)](https://github.com/MPowerKit/VirtualizeListView/stargazers)
+[![GitHub last-commit](https://img.shields.io/github/last-commit/MPowerKit/VirtualizeListView?style=flat-square)](https://github.com/MPowerKit/VirtualizeListView/commits) - MAUI Virtualize ListView with smooth scrolling and without platform-specific code.  
   
 ## Plugins
 
