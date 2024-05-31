@@ -2,18 +2,17 @@
 
 [.NET Multi-platform App UI (**.NET MAUI**)](https://dot.net/maui) is a cross-platform framework for creating native mobile and desktop apps with C# and XAML. Using .NET MAUI, you can develop apps that can run on Android, iOS, macOS, Windows and Tizen from a single shared code-base.
 
-Here you can find a curated list of **awesome** .NET MAUI libraries and resources.
+Here you can find a curated list of **awesome** .NET MAUI libraries and resources. [Contributions are always welcome!](CONTRIBUTING.md)
 
 <p align="center">
-     <img alt="Stars" src="https://img.shields.io/github/stars/jsuarezruiz/awesome-dotnet-maui?style=flat-square&color=blue" />  
-     <img alt="Forks" src="https://img.shields.io/github/forks/jsuarezruiz/awesome-dotnet-maui?style=flat-square&color=green" />
-	 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/jsuarezruiz/awesome-dotnet-maui?style=flat-square" />
+	<img alt="Stars" src="https://img.shields.io/github/stars/jsuarezruiz/awesome-dotnet-maui?style=flat-square&color=blue" />  
+	<img alt="Forks" src="https://img.shields.io/github/forks/jsuarezruiz/awesome-dotnet-maui?style=flat-square&color=green" />
+	<img alt="Last Commit" src="https://img.shields.io/github/last-commit/jsuarezruiz/awesome-dotnet-maui?style=flat-square" />
 </p>
-
-[Contributions are always welcome!](CONTRIBUTING.md)
 
 ## Contents
 - [Awesome .NET MAUI](#awesome-net-maui-)
+  - [Contents](#contents)
   - [Books](#books)
   - [Samples](#samples)
   - [Workshops](#workshops)
