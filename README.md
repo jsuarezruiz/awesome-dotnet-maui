@@ -56,6 +56,7 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 ## Workshops
 |Name|Description|Stars|Activity|
 |--|--|--|--|
+[.NET MAUI Hands-on Workshop](https://mauiworkshop.org) | A free, self-paced workshop that walks you through building a real-world chat app with .NET MAUI. Covers cross-platform UI, navigation, and backend integration for iOS, Android, macOS, and Windows. |  |  |
 [.NET MAUI Workshop](https://github.com/dotnet-presentations/dotnet-maui-workshop)|A full day workshop (.NET MAUI Workshop in a Box) on how to build apps with .NET MAUI for iOS, Android, macOS, and Windows.|[![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/dotnet-maui-workshop?style=flat-square)](https://github.com/dotnet-presentations/dotnet-maui-workshop/stargazers)|[![GitHub last-commit](https://img.shields.io/github/last-commit/dotnet-presentations/dotnet-maui-workshop?style=flat-square)](https://github.com/dotnet-presentations/dotnet-maui-workshop/commits)
 [Taller .NET MAUI](https://github.com/jsuarezruiz/taller-dotnet-maui)|Taller de desarrollo de aplicaciones con .NET MAUI (Spanish content).|[![GitHub stars](https://img.shields.io/github/stars/jsuarezruiz/taller-dotnet-maui?style=flat-square)](https://github.com/jsuarezruiz/taller-dotnet-maui/stargazers)|[![GitHub last-commit](https://img.shields.io/github/last-commit/jsuarezruiz/taller-dotnet-maui?style=flat-square)](https://github.com/jsuarezruiz/taller-dotnet-maui/commits)
 
