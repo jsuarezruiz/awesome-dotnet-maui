@@ -10,6 +10,7 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
 	<img alt="Last Commit" src="https://img.shields.io/github/last-commit/jsuarezruiz/awesome-dotnet-maui?style=flat-square" />
 </p>
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for .NET MAUI development workflow orchestration, automated cross-platform app management, and multi-agent coordination. MIT licensed.
 ## Contents
 - [Books](#books): Books written about MAUI.
 - [Samples](#samples): Sample apps and projects.
